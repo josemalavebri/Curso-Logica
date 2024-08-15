@@ -1,0 +1,51 @@
+//EJERCICIO 1
+También conocido como método, es un fragmento de código encapsulado que sirve para ser reutilizado. 
+
+//EJERCICIO 2
+1.	Función con retorno.
+2.	Función sin retorno.
+
+//EJERCICIO 3
+const double pi = 3.14;
+
+double area = 0;
+
+Console.WriteLine("Digite el valor del radio: ");
+double radio = double.Parse(Console.ReadLine()!);
+
+double CalcularAreaCirculo(double radio){
+    return area = pi * radio * radio;
+}
+
+Console.WriteLine("El valor del area del circulo es: " + CalcularAreaCirculo(radio).ToString("F2"));
+
+//EJERCICIO 4
+Console.WriteLine("Ingrese el primer numero: ");
+double num1 = Convert.ToDouble(Console.ReadLine());
+
+Console.WriteLine("Ingrese el segundo numero: ");
+double num2 = Convert.ToDouble(Console.ReadLine());
+
+double Sumar(double num1, double num2){
+    return num1 + num2;
+}
+double Multiplicar(double num1, double num2){
+    return num1 * num2;
+}
+double Dividir(double num1, double num2){
+    return num1 / num2;
+}
+
+Console.WriteLine("El resultado en la suma es: " + Sumar(num1, num2));
+Console.WriteLine("El resultado en la multiplicacion es: " + Multiplicar(num1, num2));
+Console.WriteLine("El resultado en la division es: " + Dividir(num1, num2));
+
+//EJERCICIO 5
+1.	La variable “variable1” su alcance es global.
+2.	La variable “variable2” su alcance es dentro del cuerpo del método “datos()”.
+3.	La variable “variable3” su alcance es dentro del cuerpo del bloque de estructura de control o “if”.
+
+//EJERCICIO 6
+1.	Línea 15: no es permitido llamar a la variable “variable3” porque esta fuera de su alcance. (fuera de su alcance sentimental. Forever alone “datos()” no puede tener a todas las variables :c)
+2.	Línea 17: no se esta escribiendo completo el nombre de la variable a la cual se va a presentar por pantalla.
+3.	Línea 17: falta el punto y coma al finalizar la instrucción.
