@@ -79,3 +79,16 @@ funcionAlteraEstado(11);
 
 
     
+//Alcance de variables
+
+int alcanceGlobal //alcance global
+
+void metodo(){
+
+    int alcanceLocal_OMetodo;
+
+    if(){
+        int alcanceLocal;
+    }
+    
+}
