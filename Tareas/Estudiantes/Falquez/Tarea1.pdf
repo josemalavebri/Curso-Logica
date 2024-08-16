@@ -1,0 +1,70 @@
+-----1 
+int entero = 2;
+Console.WriteLine(entero);
+
+string persona = "Cristiano";
+Console.WriteLine(persona);
+
+double resultado = 1.50d;
+Console.WriteLine(resultado);
+
+byte cantidad = 255;
+Console.WriteLine(cantidad);
+
+char letra = 'a'; 
+Console.WriteLine(letra);
+
+long numero_entero  = -8;
+Console.WriteLine(numero_entero);
+
+float promedio = 10.00f;
+Console.WriteLine(promedio);
+
+short edad = 18;
+Console.WriteLine(edad);
+
+ushort año = 2024;
+Console.WriteLine(año);
+
+ulong mes = 7;
+Console.WriteLine(mes);
+
+-----2
+Flotante: Son numero decimales extensos 
+Entero: Son números entero q no tiene comas ósea no son extensos
+
+-----3
+decimal area = 0m;
+decimal radio = 2m;
+decimal entero = 3.14m;
+    area = entero * radio * radio;
+Console.WriteLine(area);
+
+
+-----4
+1)Falta completar el CONSOLE en el ejercicio 1 de la resta
+2)En el ejercicio 2 no es doublé sino int numero = 20 xq es un numero entero y en doublé seria doublé promedio = 4.15
+3)En el ejercio 2 la resta2 no es signo positivo sino negativo por ejemplo numero3-numero4
+4) En el ejercicio 1 de la suma en la parte de la concatenar no va la s en la suma
+5) En el resultado final no esta completo  seria Console.WriteLine y falta el punto y coma. En la suma del numero 1 te comiste el 1
+6) En el ejercicio del doublé la variable es suma2 y en el concatenar solo esta suma
+
+-----5
+Es cuando la ejecución se va leyendo en un orden adecuado como se formo la estructura del código. 
+
+-----6 
+1)Banderas = Define si es V o F el resultado
+2)Condiciones = Cumple una condición con el if (si) y else (sino)
+3)Comparaciones = Son los signos (==,<,>,<=,=>,!=;//si es distinto//)
+4)Operadores logicos = Son los &&, es la y OR(||) y NOT(!)
+ 
+-----7
+1)El signo esta mal no es / sino * y en la consola esta incompleto la palabra multiplicación y el console.witeLine 
+2) No puede ser entero diferente los casting debe ser doublé , y en la consola falta escribir bien el numero de la variable numero 1 y también dice q es presenta una multiplicación pero en si es una división, y en la consolo.writeLine
+3) Se debe quitar el numero 4 de la operación y se comio una letras en la Console.WriteLine 
+
+-----8
+int num1 = 15;
+double num2 = 0.1d;
+double multiplicacion = num1 * num2;
+Console.Writeline ("El ultimo digito es:" + numl+ "y" + num2+ "es" +multiplicacion);
