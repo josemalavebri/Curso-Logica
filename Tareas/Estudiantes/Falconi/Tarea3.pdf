@@ -1,0 +1,101 @@
+//EJERCICIO 1
+//CONDICIONAL 1
+double altura = 2.00d;
+if (altura >= 2.00){
+    Console.WriteLine("Es jugador de la NBA");
+}
+//CONDICIONAL 2
+char vocal = 'a';
+if (vocal == 'a'){
+    Console.WriteLine("Es una vocal");
+}
+//CONDICIONAL 3
+int valor = 7;
+if (valor != 10){
+    Console.WriteLine("No poseen el mismo valor");
+}
+//CONDICIONAL 4
+double precio = 100.50d;
+if (precio <= 200){
+    Console.WriteLine("No lo alcanza para obtener el descuento");
+}
+//CONDICIONAL 5
+int edad = 15;
+if (edad < 18){
+    Console.WriteLine("Usted es menor de edad");
+}
+Ejecución 
+ 
+
+//EJERCICIO 2
+El valor que se presenta es falso y el condicional if nunca itera porque no se efectúa la condición por el hecho que no está creada la variable “bandera”. 
+
+//EJERCICIO 3
+Console.WriteLine("Digete su numero: ");
+int numero = Convert.ToInt32(Console.ReadLine());
+
+if (numero == 5){
+    int resultado = numero + numero;
+    Console.WriteLine("Su numero cambio porque se ingreso un numero igual al 5");
+    Console.WriteLine("Su nuevo numero es: " + resultado);
+}
+if (numero > 5){
+    double resultado = numero + (numero / 2);
+    Console.WriteLine("Su numero cambio porque ingreso un numero mayor al 5");
+    Console.WriteLine("Su nuevo numero es: " + resultado);
+}
+Ejecución
+•	Cuando es mayor a 5
+ 
+•	Cuando es igual a 5
+ 
+
+//EJERCICIO 4
+Console.WriteLine("Digete su numero a calcular");
+double numero = Convert.ToDouble(Console.ReadLine());
+
+void SumarNumero(double numero){
+    for (int i = 1; i<= numero; i++){
+        double resultado = i + numero;
+        Console.WriteLine(i+"+"+numero+"="+resultado);
+    }
+}
+
+SumarNumero(numero);
+Ejecución
+ 
+
+//EJERCICIO 5
+For(inicializador contador; condición; incremento/descremento contador){
+	//cuerpo
+}
+
+//EJERCICIO 6
+El valor de la variable “numeroFinal” es 270.
+
+//EJERCICIO 7
+Console.WriteLine("Digite la edad de la primera persona");
+int edad1 = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("Digite la edad de la segunda persona");
+int edad2 = Convert.ToInt32(Console.ReadLine());
+
+if (edad1 == edad2){
+    for (int i = 1; i<=5; i++){
+        edad1 += edad1;
+    }
+    Console.WriteLine("Al tener la misma edad de la otra persona");
+    Console.WriteLine("El sistema le cambio a esta nueva edad y es "+edad1);
+}else{
+    for(int i = 1; i<=edad2;i++){
+        if(edad2>=5){
+            edad2 -=i;
+        }
+    }
+    Console.WriteLine("Su nueva edad por no cumplir con la condicion prevista es "+edad2);
+    }
+Ejecución:
+•	Cuando la edad de la primera persona es igual a la edad de la segunda persona
+ 
+•	Cuando la edad de la segunda persona no cumple la condición
+ 
