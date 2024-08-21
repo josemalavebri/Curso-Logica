@@ -1,16 +1,16 @@
 using System;
 
-int a = operacion1(2);
-int b = operacion2(3);
-int c = operacion3(4);
-int d = operacion4(5);
-int e = operacion5(6);
+int a = operacion1(0);
+int b = operacion2(1);
+int c = operacion3(0);
+int d = operacion4(1);
+int e = operacion5(0);
 
 Console.WriteLine($"{a} - {b} - {c} - {d} - {e}");
 
 int operacionNumero()
 {
-    return 2 * (3 + 1);
+    return 1 * (1 + 1);
 }
 
 int operacion1(int n)
@@ -22,17 +22,17 @@ int operacion(int a)
 {
     if (operacionBool())
     {
-        return a + 2;
+        return a + 1;
     }
     else
     {
-        return a - 2;
+        return a - 1;
     }
 }
 
 int operacion2(int c)
 {
-    c = operacionValidacion(c) + 3;
+    c = operacionValidacion(c) + 1;
     return operacion(c);
 }
 
@@ -65,12 +65,12 @@ int operacion3(int a)
     bool bandera = false;
     for (int b = 0; b < 3; c++)
     {
-        b = b + 5;
+        b = b + 1;
         bandera = !bandera;
         if (operacionBool2(bandera))
         {
             a = b;
-            b = b - 5;
+            b = b - 1;
             return a + c;
         }
         else
@@ -83,7 +83,7 @@ int operacion3(int a)
 
 int operacion4(int n)
 {
-    return n * 2 + operacionNumero();
+    return n * 1 + operacionNumero();
 }
 
 int operacion5(int n)
@@ -91,10 +91,10 @@ int operacion5(int n)
     int res = operacionValidacion(n);
     if (res % 2 == 0)
     {
-        return res * 2;
+        return res * 1;
     }
     else
     {
-        return res + 5;
+        return res + 0;
     }
 }
