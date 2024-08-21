@@ -31,15 +31,6 @@ int proceso3(){
 }
 
 
-
-
-
-
-
-
-
-
-
 int a = 1+1;
 TipoDato variable = valor|operacion; 
 
