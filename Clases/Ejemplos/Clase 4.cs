@@ -77,18 +77,21 @@ sumario(14);
 
 funcionAlteraEstado(11);
 
-
-    
 //Alcance de variables
 
-int alcanceGlobal //alcance global
+int alcanceGlobal; //alcance global
 
-void metodo(){
+//alcance global
+void metodo(int parametro){ //alcance de parametro
 
     int alcanceLocal_OMetodo;
 
     if(){
         int alcanceLocal;
     }
-    
+}
+
+//uso de metodo de alcance global
+void metodo2(){
+    metodo();
 }
