@@ -3,6 +3,7 @@ using System;
 int a = operacion1(0);
 int b = operacion2(1);
 int c = operacion3(0);
+
 int d = operacion4(1);
 int e = operacion5(0);
 
