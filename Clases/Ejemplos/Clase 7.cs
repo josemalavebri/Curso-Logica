@@ -7,7 +7,6 @@ for(i=0; j <=5 ; j++){
     Console.WriteLine(j);
 }
 
-
 //distantas ejecuciones de for con operadores
 for(int j=0; j <=6 ; j++){
     Console.WriteLine(j);
