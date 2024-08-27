@@ -1,0 +1,10 @@
+{
+  "defaultViewMode": "source",
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": ".//ANEXOS",
+  "showRibbon": false,
+  "promptDelete": false,
+  "focusNewTab": true
+}

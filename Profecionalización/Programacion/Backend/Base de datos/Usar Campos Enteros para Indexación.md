@@ -1,0 +1,1 @@
+Para mejorar el rendimiento, se recomienda hacer labores de indexación a través de campos enteros en lugar de campos alfanuméricos.

@@ -1,0 +1,16 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "fecha": "date",
+    "Etiquetas": "multitext",
+    "tipo": "multitext",
+    "Enlaces": "text",
+    "Enlace": "multitext",
+    "estado": "multitext",
+    "Estados": "multitext",
+    "f": "checkbox",
+    "Regreso": "multitext"
+  }
+}

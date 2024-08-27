@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "9d62a5c89b9a490f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1306b55163f67e8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6970ee812ebca8d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programacion/Conceptos/Temario lógica funcional y cerebral.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4de4ef86e0cadc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pilas.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "47088143b992b272",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a45956232e7e014",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e9554d45d871316",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1513176c202ff277",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "b9f8b8b76c146fef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "right": {
+    "id": "83874aa21cfa0e2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba7d8f675126beaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a625fcff6c0f0f14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programacion/Conceptos/Temario lógica funcional y cerebral.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bdf86aa5f9d84930",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programacion/Conceptos/Temario lógica funcional y cerebral.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "902e03dc09b34cef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "09e9a77ce8c425fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programacion/Conceptos/Temario lógica funcional y cerebral.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "random-note:Abrir nota al azar": false
+    }
+  },
+  "active": "6e9554d45d871316",
+  "lastOpenFiles": [
+    "Colas.md",
+    "Pilas.md",
+    "Pilas y Colas.md",
+    "Sin título.md",
+    "Programacion/Conceptos/Temario lógica funcional y cerebral.md",
+    "Recursión.md",
+    "Recursión-Características.md",
+    "Sin ordenar.md",
+    "Recursión-Ejemplo.md",
+    "Busquedas/Temarios.md",
+    "Programacion/Conceptos/biblioteca estándar .NET..md",
+    "Programacion/Backend/Lenguajes/C-shart/System.IO.md",
+    "Programacion/Backend/Lenguajes/C-shart/StreamReader.md",
+    "Programacion/Backend/Lenguajes/C-shart/System.Xml.Linq.md",
+    "Programacion/Backend/Lenguajes/C-shart/namespaces 1.md",
+    "Programacion/Conceptos/bibliotecas.md",
+    "Programacion/Backend/Lenguajes/C-shart/-.NET.md",
+    "Programacion/Backend/Lenguajes/C-shart/-.NET SDK.md",
+    "Programacion/Backend/Lenguajes/C-shart/ASP .NET.md",
+    "Programacion/Conceptos/plataformas de desarrollo.md",
+    "Listas-Sintaxis.md",
+    "Listas.md",
+    "Listas-Características.md",
+    "Arrays.md",
+    "Array-Sintaxis-Ejemplo.md",
+    "Array-Características.md",
+    "ANEXOS/Pasted image 20240710114530.png",
+    "ANEXOS/Pasted image 20240710123418.png",
+    "ANEXOS/Pasted image 20240713145330.png",
+    "ANEXOS/Pasted image 20240805131810.png",
+    "ANEXOS/Pasted image 20240813165606.png",
+    "ANEXOS/Pasted image 20240815150115.png",
+    "ANEXOS/Pasted image 20240710123330.png",
+    "ANEXOS/Pasted image 20240710114130.png",
+    "ANEXOS/Pasted image 20240623095345.png",
+    "Ordenar/Sin título.canvas",
+    "Estudios biologia",
+    "Programacion/Ordenar/Sin título.canvas",
+    "Programacion/Palabra",
+    "Ordenar/XML",
+    "Programacion/Codigos/Ejemplos",
+    "Programacion/Codigos/Para usar",
+    "Busquedas",
+    "Ordenar/Sin nombre",
+    "Programacion/Backend/Lenguajes/Java",
+    "Programacion/Backend/Lenguajes",
+    "Investigar",
+    "Conceptos/Sin título.canvas",
+    "ANEXOS/Pasted image 20240623095357.png",
+    "Sin título 1.canvas",
+    "Programación/Sin título.canvas"
+  ]
+}

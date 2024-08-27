@@ -1,0 +1,2 @@
+Las **colecciones** en son estructuras de datos que permiten almacenar, organizar y manipular múltiples elementos de datos, generalmente del mismo tipo, aunque algunas colecciones permiten almacenar datos de diferentes tipos.
+Las [[colecciones en c-shart]] tienen estructuras mas complejas y completas

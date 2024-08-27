@@ -1,0 +1,1 @@
+una estructura de control que permite ejecutar diferentes bloques de código según el valor de una expresión. Es útil cuando se necesita comparar un valor con múltiples opciones y ejecutar un código diferente
