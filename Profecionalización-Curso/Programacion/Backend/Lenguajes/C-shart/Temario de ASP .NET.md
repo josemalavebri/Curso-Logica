@@ -73,7 +73,7 @@ tags:
     - Ejemplo práctico de una aplicación CRUD.
     
 1. **Consultas y LINQ**
-    - Uso de LINQ para consultas en bases de datos.
+    - Uso de [[LINQ]] para consultas en bases de datos.
     - Consultas complejas y optimización.
 
 #### **Módulo 5: Desarrollo de APIs RESTful**

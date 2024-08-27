@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6970ee812ebca8d3",
+            "id": "4287bcf1594040f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Busquedas/Códigos.md",
+                "file": "Comandos rapidos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,14 +21,33 @@
             }
           },
           {
-            "id": "3727d13e5c62a52b",
+            "id": "692d9fd30471c0fe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programacion/Backend/Lenguajes/C-shart/estructura if.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec65a61e518b3a62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comandos rapidos.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,14 +74,12 @@
             "id": "1513176c202ff277",
             "type": "leaf",
             "state": {
-              "type": "search",
+              "type": "markdown",
               "state": {
-                "query": "tag:Investigar",
-                "matchingCase": true,
-                "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "byCreatedTime"
+                "file": "Busquedas/Busquedas-main.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -72,6 +89,21 @@
             "state": {
               "type": "bookmarks",
               "state": {}
+            }
+          },
+          {
+            "id": "0ff77963d576c336",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#NoProfundizado",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
             }
           }
         ]
@@ -94,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Busquedas/Códigos.md",
+                "file": "Programacion/Backend/Lenguajes/C-shart/estructura if.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Busquedas/Códigos.md",
+                "file": "Programacion/Backend/Lenguajes/C-shart/estructura if.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Busquedas/Códigos.md"
+                "file": "Programacion/Backend/Lenguajes/C-shart/estructura if.md"
               }
             }
           }
@@ -158,43 +190,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6970ee812ebca8d3",
+  "active": "692d9fd30471c0fe",
   "lastOpenFiles": [
-    "Busquedas/Códigos.md",
-    "main.md",
-    "Programacion/Backend/Lenguajes/C-shart/Tipos de action result.md",
-    "Busquedas/Sistema de etiquetas.md",
-    "Programacion/Backend/Lenguajes/C-shart/Ruta base de un controlador.md",
-    "Programacion/Backend/Lenguajes/C-shart/namespaces 1.md",
-    "Programacion/Conceptos/Pilas.md",
-    "Programacion/Conceptos/JSON.md",
-    "Programacion/Conceptos/Array-Características.md",
-    "Programacion/Palabra/Palabras técnicas.md",
+    "Comandos rapidos.md",
+    "Programacion/Backend/Lenguajes/C-shart/estructura if.md",
+    "if.md",
+    "Busquedas/Temas por investigar.md",
+    "Plantillas/Plantilla Vacía.md",
+    "Programacion/Backend/Lenguajes/C-shart/LINQ.md",
+    "Programacion/Conceptos/Arrays.md",
+    "Programacion/Backend/Lenguajes/C-shart/XElement.md",
+    "Programacion/Backend/Lenguajes/C-shart/XDocument.md",
+    "Programacion/Backend/Lenguajes/C-shart/Temario de ASP .NET.md",
+    "Programacion/Backend/Lenguajes/C-shart/System.Xml.Linq.md",
+    "Programacion/Backend/Lenguajes/C-shart/XElement--Sintaxis-Ejemplo.md",
+    "Programacion/Backend/Lenguajes/C-shart/-.NET SDK.md",
     "Programacion/Palabra/Interfaz.md",
-    "Programacion/Conceptos/UTF-8.md",
-    "Programacion/Conceptos/Unidades básicas de almacenamiento.md",
-    "Programacion/Conceptos/tipos de lenguajes de programación.md",
-    "Programacion/Conceptos/stack.md",
+    "sintaxis-ejemplo.md",
+    "Sin título 1.md",
+    "Programacion/Palabra/Palabras técnicas.md",
     "Programacion/Backend/Backend.md",
     "Programacion/Backend/Bibliotecas-Backend.md",
-    "Programacion/Conceptos/Recursión.md",
-    "Programacion/Frontend/CDN.md",
-    "Por terminar/Conceptos de html.md",
-    "Por terminar/Técnicas de refactorización.md",
-    "Por terminar/Temario de Postman.md",
-    "Pilas y Colas.md",
-    "Programacion/Conceptos/Recursión-Características.md",
-    "Programacion/Conceptos/Recursión-Ejemplo.md",
-    "Programacion/Conceptos/Listas-Sintaxis.md",
-    "ANEXOS/Pasted image 20240710114530.png",
-    "ANEXOS/Pasted image 20240710123418.png",
-    "ANEXOS/Pasted image 20240713145330.png",
-    "ANEXOS/Pasted image 20240805131810.png",
-    "ANEXOS/Pasted image 20240813165606.png",
-    "ANEXOS/Pasted image 20240815150115.png",
-    "ANEXOS/Pasted image 20240710123330.png",
-    "ANEXOS/Pasted image 20240710114130.png",
+    "Programacion/Codigos/Para usar/Codigo para hackear la nasa.md",
+    "Busquedas/Códigos.md",
+    "Programacion/Backend/Lenguajes/JavaScript/Temario de JavaScript.md",
+    "Busquedas/Temarios.md",
+    "Programacion/Backend/Lenguajes/JavaScript/Hola mundo.md",
+    "Programacion/Backend/Lenguajes/JavaScript/JavaScript.md",
+    "Busquedas/Busquedas-main.md",
+    "Busquedas/ANEXOS/Pasted image 20240827144854.png",
+    "Busquedas/ANEXOS/Pasted image 20240827144843.png",
+    "Busquedas/ANEXOS/Pasted image 20240827144837.png",
+    "Busquedas/ANEXOS/Pasted image 20240827144836.png",
+    "Busquedas/ANEXOS/Pasted image 20240827144831.png",
     "ANEXOS/Pasted image 20240623095345.png",
+    "ANEXOS/Pasted image 20240623095357.png",
+    "ANEXOS/Pasted image 20240710114130.png",
+    "ANEXOS/Pasted image 20240710123330.png",
+    "ANEXOS/Pasted image 20240710123418.png",
+    "Busquedas/ANEXOS",
     "Ordenar/Sin título.canvas",
     "Estudios biologia",
     "Programacion/Ordenar/Sin título.canvas",
@@ -206,9 +240,7 @@
     "Ordenar/Sin nombre",
     "Programacion/Backend/Lenguajes/Java",
     "Programacion/Backend/Lenguajes",
-    "Investigar",
     "Conceptos/Sin título.canvas",
-    "ANEXOS/Pasted image 20240623095357.png",
     "Sin título 1.canvas",
     "Programación/Sin título.canvas"
   ]

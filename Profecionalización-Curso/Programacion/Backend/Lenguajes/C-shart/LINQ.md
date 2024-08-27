@@ -10,7 +10,7 @@ tags:
 + Es una característica de C# que permite realizar consultas sobre diversas fuentes de datos de manera coherente y expresiva
 
 	+ Por ejemplo:
-		+ arrays, 
+		+ [[arrays]], 
 		+ [[colecciones]], 
 		+ XML, 
 		+ bases de datos,
