@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion/Backend/Lenguajes/C-shart/estructura if.md",
+                "file": "Comandos rapidos.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82ef841675a6970b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anki.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Backend/Lenguajes/C-shart/estructura if.md",
+                "file": "Anki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion/Backend/Lenguajes/C-shart/estructura if.md",
+                "file": "Anki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programacion/Backend/Lenguajes/C-shart/estructura if.md"
+                "file": "Anki.md"
               }
             }
           }
@@ -190,15 +203,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "692d9fd30471c0fe",
+  "active": "82ef841675a6970b",
   "lastOpenFiles": [
     "Comandos rapidos.md",
+    "Anki.md",
+    "Sin nombre",
+    "Programacion/Conceptos/Array-Sintaxis-Ejemplo.md",
+    "Programacion/Conceptos/Arrays.md",
+    "Programacion/Conceptos/Array-Características.md",
     "Programacion/Backend/Lenguajes/C-shart/estructura if.md",
     "if.md",
     "Busquedas/Temas por investigar.md",
     "Plantillas/Plantilla Vacía.md",
     "Programacion/Backend/Lenguajes/C-shart/LINQ.md",
-    "Programacion/Conceptos/Arrays.md",
     "Programacion/Backend/Lenguajes/C-shart/XElement.md",
     "Programacion/Backend/Lenguajes/C-shart/XDocument.md",
     "Programacion/Backend/Lenguajes/C-shart/Temario de ASP .NET.md",
@@ -215,9 +232,6 @@
     "Busquedas/Códigos.md",
     "Programacion/Backend/Lenguajes/JavaScript/Temario de JavaScript.md",
     "Busquedas/Temarios.md",
-    "Programacion/Backend/Lenguajes/JavaScript/Hola mundo.md",
-    "Programacion/Backend/Lenguajes/JavaScript/JavaScript.md",
-    "Busquedas/Busquedas-main.md",
     "Busquedas/ANEXOS/Pasted image 20240827144854.png",
     "Busquedas/ANEXOS/Pasted image 20240827144843.png",
     "Busquedas/ANEXOS/Pasted image 20240827144837.png",
@@ -239,7 +253,6 @@
     "Busquedas",
     "Ordenar/Sin nombre",
     "Programacion/Backend/Lenguajes/Java",
-    "Programacion/Backend/Lenguajes",
     "Conceptos/Sin título.canvas",
     "Sin título 1.canvas",
     "Programación/Sin título.canvas"
