@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anki.md",
+                "file": "Comandos rapidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anki.md",
+                "file": "Comandos rapidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anki.md"
+                "file": "Comandos rapidos.md"
               }
             }
           }
@@ -203,10 +203,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "82ef841675a6970b",
+  "active": "ec65a61e518b3a62",
   "lastOpenFiles": [
-    "Comandos rapidos.md",
     "Anki.md",
+    "Comandos rapidos.md",
     "Sin nombre",
     "Programacion/Conceptos/Array-Sintaxis-Ejemplo.md",
     "Programacion/Conceptos/Arrays.md",

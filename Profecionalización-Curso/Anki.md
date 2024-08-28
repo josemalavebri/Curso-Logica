@@ -16,3 +16,4 @@ Escriba la sintaxis de un array
 TipoDato[] nombre_arreglo = new TipoDato[tamaño];
 
 ---
+### titulo
