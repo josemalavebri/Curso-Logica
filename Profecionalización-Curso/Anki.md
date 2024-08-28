@@ -1,6 +1,6 @@
 ### ARRAY
 ¿Qué es un array en programación?
-Un arreglo es una estructura de datos que almacena una colección ordenada de elementos del mismo tipo en una secuencia continua de memoria
+Un arreglo es una estructura de datos que almacena una colección ordenada de elementos
 
 ---
 Un array
