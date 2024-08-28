@@ -48,10 +48,10 @@
     // Ordenar metodos para que de como resultado 3
 
     resultado = 0;
-    resultado = Metodo4(resultado);
     resultado = Metodo5(resultado);
-    resultado = Metodo2(resultado);
     resultado = Metodo1(resultado);
+    resultado = Metodo4(resultado);
+    resultado = Metodo2(resultado);
     resultado = Metodo3(resultado);
 
     Console.WriteLine("Resultado final (esperado 3): " + resultado);
