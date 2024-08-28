@@ -55,3 +55,38 @@
     resultado = Metodo3(resultado);
 
     Console.WriteLine("Resultado final (esperado 3): " + resultado);
+
+    //ESTA NO SALE 3 Y VA A SALIR :
+
+    /*
+
+    -2 + 2 SE ANULAN
+
+    int Metodo2(int numero)
+    {
+        return numero - 2;
+    }
+    
+    int Metodo3(int numero)
+    {
+        return numero + 2;
+    }
+
+    
+    SE ANULAN -1 Y + 1
+    int Metodo4(int numero)
+    {
+        return numero - 1;
+    }
+
+    int Metodo1(int numero)
+    {
+        return numero + 1;
+    }
+
+    int Metodo5(int numero)
+    {
+        return numero + 0;
+    }
+
+    */
