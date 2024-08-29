@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "94957608b8160ccb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anki.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Conceptos/Temario lógica funcional y cerebral.md",
+                "file": "Anki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion/Conceptos/Temario lógica funcional y cerebral.md",
+                "file": "Anki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programacion/Conceptos/Temario lógica funcional y cerebral.md"
+                "file": "Anki.md"
               }
             }
           }
@@ -163,11 +177,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b0b80390e2ea3834",
+  "active": "94957608b8160ccb",
   "lastOpenFiles": [
+    "Programacion/Conceptos/Temario lógica funcional y cerebral.md",
+    "Anki.md",
     "Por ordenar/Operadores Lógicos.md",
     "Por ordenar/AND.md",
-    "Programacion/Conceptos/Temario lógica funcional y cerebral.md",
     "Por ordenar/Lógica Booleana.md",
     "Programacion/Conceptos/Recursión.md",
     "Plantillas/Plantilla-Sintaxis-Ejemplo.md",
@@ -191,7 +206,6 @@
     "Programacion/Conceptos/Array-Características.md",
     "Programacion/Backend/Lenguajes/C-shart/estructura if.md",
     "if.md",
-    "Busquedas/Temas por investigar.md",
     "Busquedas/ANEXOS/Pasted image 20240827144854.png",
     "Busquedas/ANEXOS/Pasted image 20240827144843.png",
     "Busquedas/ANEXOS/Pasted image 20240827144837.png",
