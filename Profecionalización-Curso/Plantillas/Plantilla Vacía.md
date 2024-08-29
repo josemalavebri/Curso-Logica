@@ -1,8 +1,6 @@
 ---
-modificado: 2024-08-27
+modificado: 2024-08-29
 tags:
   - Comprendido
-  - "#Codigo"
-  - Investigar
 Regreso:
 ---

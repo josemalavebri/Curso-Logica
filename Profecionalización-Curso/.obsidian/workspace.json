@@ -4,63 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "1306b55163f67e8d",
+        "id": "19340aced0143e40",
         "type": "tabs",
         "children": [
           {
-            "id": "4287bcf1594040f9",
+            "id": "b0b80390e2ea3834",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comandos rapidos.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "692d9fd30471c0fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comandos rapidos.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82ef841675a6970b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anki.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec65a61e518b3a62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comandos rapidos.md",
+                "file": "Programacion/Conceptos/Temario lógica funcional y cerebral.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anki.md",
+                "file": "Programacion/Conceptos/Temario lógica funcional y cerebral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anki.md",
+                "file": "Programacion/Conceptos/Temario lógica funcional y cerebral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anki.md"
+                "file": "Programacion/Conceptos/Temario lógica funcional y cerebral.md"
               }
             }
           }
@@ -203,35 +163,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "82ef841675a6970b",
+  "active": "b0b80390e2ea3834",
   "lastOpenFiles": [
-    "Comandos rapidos.md",
-    "Anki.md",
-    "Sin nombre",
+    "Por ordenar/Operadores Lógicos.md",
+    "Por ordenar/AND.md",
+    "Programacion/Conceptos/Temario lógica funcional y cerebral.md",
+    "Por ordenar/Lógica Booleana.md",
+    "Programacion/Conceptos/Recursión.md",
+    "Plantillas/Plantilla-Sintaxis-Ejemplo.md",
+    "pagina nueva.md",
+    "Por ordenar/AND-Sintaxis-Ejemplo.md",
+    "Programacion/Conceptos/Recursión-Ejemplo.md",
+    "Programacion/Conceptos/Recursión-Características.md",
+    "Plantillas/Plantilla Vacía.md",
+    "Por ordenar/XOR-Sintaxis-Ejemplo.md",
+    "Por ordenar",
+    "Por ordenar/OR.md",
+    "Por ordenar/OR-Sintaxis-Ejemplo.md",
+    "Por ordenar/NOT.md",
+    "Por ordenar/NOT-Sintaxis-Ejemplo.md",
+    "Por ordenar/XOR.md",
+    "Busquedas/Temarios.md",
+    "Por ordenar/Anki.md",
+    "Por ordenar/Comandos rapidos.md",
     "Programacion/Conceptos/Array-Sintaxis-Ejemplo.md",
     "Programacion/Conceptos/Arrays.md",
     "Programacion/Conceptos/Array-Características.md",
     "Programacion/Backend/Lenguajes/C-shart/estructura if.md",
     "if.md",
     "Busquedas/Temas por investigar.md",
-    "Plantillas/Plantilla Vacía.md",
-    "Programacion/Backend/Lenguajes/C-shart/LINQ.md",
-    "Programacion/Backend/Lenguajes/C-shart/XElement.md",
-    "Programacion/Backend/Lenguajes/C-shart/XDocument.md",
-    "Programacion/Backend/Lenguajes/C-shart/Temario de ASP .NET.md",
-    "Programacion/Backend/Lenguajes/C-shart/System.Xml.Linq.md",
-    "Programacion/Backend/Lenguajes/C-shart/XElement--Sintaxis-Ejemplo.md",
-    "Programacion/Backend/Lenguajes/C-shart/-.NET SDK.md",
-    "Programacion/Palabra/Interfaz.md",
-    "sintaxis-ejemplo.md",
-    "Sin título 1.md",
-    "Programacion/Palabra/Palabras técnicas.md",
-    "Programacion/Backend/Backend.md",
-    "Programacion/Backend/Bibliotecas-Backend.md",
-    "Programacion/Codigos/Para usar/Codigo para hackear la nasa.md",
-    "Busquedas/Códigos.md",
-    "Programacion/Backend/Lenguajes/JavaScript/Temario de JavaScript.md",
-    "Busquedas/Temarios.md",
     "Busquedas/ANEXOS/Pasted image 20240827144854.png",
     "Busquedas/ANEXOS/Pasted image 20240827144843.png",
     "Busquedas/ANEXOS/Pasted image 20240827144837.png",

@@ -38,10 +38,9 @@ tags:
 ---
 - [[Recursión]]
     - Concepto de Recursión
-- Lógica Booleana
-    - Operadores Lógicos
+- [[Lógica Booleana]]
+    - [[Operadores Lógicos]]
     - Tablas de Verdad
-[[Sin ordenar]]
 - Resolución de Problemas
     - [[Descomposición]] de Problemas
     - Prueba y Error
@@ -205,7 +204,7 @@ tags:
 - **Estilos de Vida Saludables para la Reducción del Estrés**:
     - Ejercicio regular y su impacto en la gestión del estrés.
     - Nutrición adecuada y su influencia en la salud mental.
-###  **   
+    
 ###  **Manejo de Espacio en Memoria**
 
 - **Memoria a Corto y Largo Plazo**:
@@ -218,7 +217,7 @@ tags:
     - Actividades para mantener la memoria activa (rompecabezas, lectura).
     - Importancia de la nutrición y el ejercicio para la salud de la memoria.
     
-###  **Estudiar Correctament e**
+###  **Estudiar Correctamente**
 - **Planificación y Organización**:
     - Creación de un plan de estudio estructurado y realista.
     - Identificación de la carga de complejidad por estrés.
