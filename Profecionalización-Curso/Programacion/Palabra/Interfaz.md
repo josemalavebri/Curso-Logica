@@ -9,4 +9,3 @@ Sirve para describir el punto de interacción entre dos sistemas, componentes o 
 La interfaz define cómo estos elementos se comunican y se conectan entre sí, permitiendo el intercambio de información o la realización de acciones conjuntas.
 
 [[Origen de la palabra interfaz]]
-[[sintaxis-ejemplo]]

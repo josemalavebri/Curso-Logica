@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "19340aced0143e40",
+        "id": "1f00e06bd68337d4",
         "type": "tabs",
         "children": [
           {
-            "id": "b0b80390e2ea3834",
+            "id": "ee97f5c7e598e500",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion/Conceptos/Temario lógica funcional y cerebral.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94957608b8160ccb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anki.md",
+                "file": "Programacion/Conceptos/Temario-Lógica funcional y cerebral.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Busquedas/Busquedas-main.md",
+                "file": "Busquedas/Obsidian-main.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "83874aa21cfa0e2d",
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anki.md",
+                "file": "Programacion/Conceptos/Temario-Lógica funcional y cerebral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anki.md",
+                "file": "Programacion/Conceptos/Temario-Lógica funcional y cerebral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anki.md"
+                "file": "Programacion/Conceptos/Temario-Lógica funcional y cerebral.md"
               }
             }
           }
@@ -177,35 +164,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "94957608b8160ccb",
+  "active": "ee97f5c7e598e500",
   "lastOpenFiles": [
-    "Programacion/Conceptos/Temario lógica funcional y cerebral.md",
-    "Anki.md",
     "Por ordenar/Operadores Lógicos.md",
+    "Programacion/Conceptos/Temario-Lógica funcional y cerebral.md",
+    "Programacion/Conceptos/Depuración.md",
+    "Programacion/Conceptos/Prueba y Error.md",
+    "Programacion/Conceptos/descomposición.md",
+    "Resolución de Problemas.md",
+    "Por ordenar/XOR.md",
     "Por ordenar/AND.md",
-    "Por ordenar/Lógica Booleana.md",
-    "Programacion/Conceptos/Recursión.md",
-    "Plantillas/Plantilla-Sintaxis-Ejemplo.md",
-    "pagina nueva.md",
     "Por ordenar/AND-Sintaxis-Ejemplo.md",
-    "Programacion/Conceptos/Recursión-Ejemplo.md",
-    "Programacion/Conceptos/Recursión-Características.md",
-    "Plantillas/Plantilla Vacía.md",
-    "Por ordenar/XOR-Sintaxis-Ejemplo.md",
-    "Por ordenar",
     "Por ordenar/OR.md",
-    "Por ordenar/OR-Sintaxis-Ejemplo.md",
     "Por ordenar/NOT.md",
     "Por ordenar/NOT-Sintaxis-Ejemplo.md",
-    "Por ordenar/XOR.md",
+    "Programacion/Conceptos/switch.md",
+    "Por ordenar/XOR-Sintaxis-Ejemplo.md",
+    "Por ordenar/OR-Sintaxis-Ejemplo.md",
+    "Programacion/Backend/Lenguajes/C-shart/Clases-Objetos.md",
+    "Plantillas/Plantilla Vacía.md",
+    "Programacion/Backend/Lenguajes/C-shart/XElement-Características.md",
+    "Programacion/Backend/Lenguajes/C-shart/XElement.md",
     "Busquedas/Temarios.md",
+    "Busquedas/Códigos.md",
+    "Anki.md",
+    "Ankis pasadas.md",
     "Por ordenar/Anki.md",
-    "Por ordenar/Comandos rapidos.md",
-    "Programacion/Conceptos/Array-Sintaxis-Ejemplo.md",
-    "Programacion/Conceptos/Arrays.md",
+    "Busquedas/Obsidian-main.md",
     "Programacion/Conceptos/Array-Características.md",
-    "Programacion/Backend/Lenguajes/C-shart/estructura if.md",
-    "if.md",
+    "Por ordenar",
     "Busquedas/ANEXOS/Pasted image 20240827144854.png",
     "Busquedas/ANEXOS/Pasted image 20240827144843.png",
     "Busquedas/ANEXOS/Pasted image 20240827144837.png",

@@ -21,24 +21,26 @@ tags:
 - **2.1. Tipos de datos y variables**
     - Tipos de datos primitivos.
     - Declaración y asignación de variables.
+    - [[Tipos de referencia]]
 - **2.2. Operadores**
     - Operadores aritméticos, relacionales y lógicos.
-    - Operadores avanzados: `??`, `?.`, `=>`.
+    - Operadores avanzados: `??`, `?.`, `= >.
 - **2.3. Estructuras de control**
     - Sentencias `if`, `else if`, `else`.
     - Sentencias de bucle: `for`, `while`, `do-while`, `foreach`.
     - Expresiones `switch`.
 - **2.4. Métodos y funciones**
     - Declaración y llamada de métodos.
-    - Parámetros, retorno de valores, y sobrecarga de métodos.
+    - [[Parámetros]], [[retorno de valores]], y sobrecarga de métodos.
 
 ### **3. Programación Orientada a Objetos (POO) en C#**
 
-- **3.1. Clases y objetos**
+- **3.1. [[Clases-Objetos]]**
     - Definición y creación de clases.
+    - [[Tipos Referencia]]
     - Instanciación de objetos.
 - **3.2. Encapsulamiento**
-    - Modificadores de acceso: `public`, `private`, `protected`, `internal`.
+    - Modificadores de acceso: `[[public]]`, `private`, `protected`, `internal`.
     - Propiedades y métodos de acceso (`get` y `set`).
 - **3.3. Herencia**
     - Concepto de herencia en C#.

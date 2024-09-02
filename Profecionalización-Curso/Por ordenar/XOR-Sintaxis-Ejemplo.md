@@ -5,7 +5,6 @@ tags:
 Regreso:
   - "[[Operadores Lógicos]]"
 ---
-
 #### Sintaxis básica
 
 ```c#
@@ -19,6 +18,5 @@ bool esMiembro = false;
 if (tieneDescuento ^ esMiembro) {
     Console.WriteLine("Tienes un beneficio especial.");
 }
-
 ```
 

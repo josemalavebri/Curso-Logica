@@ -5,7 +5,7 @@ tags:
   - "#Codigo"
   - Investigar
 Regreso:
-  - "[[Temario lógica funcional y cerebral]]"
+  - "[[Temario-Lógica funcional y cerebral]]"
 ---
 La recursión es una técnica de programación donde una función se llama a sí misma para resolver un problema. 
 

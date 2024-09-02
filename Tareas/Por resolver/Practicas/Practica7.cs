@@ -39,7 +39,6 @@ Console.WriteLine(bandera);
 
 
 ///SEGUNDO EJERCICIO - VERIFICAR QUE IMPRIME LA CONSOLA
-///
 bool bandera5 = verificarAcceso();
 
 bool verificarAcceso() {

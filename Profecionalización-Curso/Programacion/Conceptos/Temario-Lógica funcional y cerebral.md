@@ -40,15 +40,10 @@ tags:
     - Concepto de Recursión
 - [[Lógica Booleana]]
     - [[Operadores Lógicos]]
-    - Tablas de Verdad
-- Resolución de Problemas
+- [[Resolución de Problemas]]
     - [[Descomposición]] de Problemas
-    - Prueba y Error
-    - Depuración
-- Matemáticas Discretas (Básicas)
-    - Conjuntos y Operaciones
-    - Combinatoria Básica
-- Diagramas de Flujo
+    - [[Prueba y Error]]
+    - [[Depuración]]
 
 #### **[[Programación]] Orientada a Objetos**
 

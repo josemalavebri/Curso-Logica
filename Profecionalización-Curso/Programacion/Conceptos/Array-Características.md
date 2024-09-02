@@ -3,6 +3,7 @@ modificado: 2024-08-25
 tags:
   - Comprendido
 Regreso:
+  - "[[Arrays]]"
 ---
 ### Características de los Arreglos
 
@@ -10,7 +11,7 @@ Regreso:
 
 + **Acceso por Índice**: Los elementos del arreglo se acceden mediante índices, que empiezan desde 0.
 
-+ **Almacenamiento Contiguo**: Los elementos están almacenados de forma contigua en la memoria.
+	+ **Almacenamiento Contiguo**: Los elementos están almacenados de forma contigua en la memoria.
 
 + **Tipo Homogéneo**: Todos los elementos en un arreglo deben ser del mismo tipo.
 

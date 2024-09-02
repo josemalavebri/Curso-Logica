@@ -8,13 +8,13 @@ Regreso:
 #### Sintaxis básica
 
 ```c#
-- `!expresión`
+!expresión
 ```
 #### Ejemplo básico
 ```c#
-bool estaLloviendo = false;
+bool noLloviendo = false;
 
-if (!estaLloviendo) {
+if (!noLloviendo) {
     Console.WriteLine("Puedes salir sin paraguas.");
 }
 

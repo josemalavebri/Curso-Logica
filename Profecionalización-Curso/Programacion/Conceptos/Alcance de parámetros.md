@@ -1,6 +1,6 @@
-Los parámetros de una función también tienen un alcance local, pero son un caso especial de variables locales. 
+Los [[parámetros]] de una función también tienen un alcance local, pero son un caso especial de variables locales. 
 
-Los valores de estos parámetros se pasan a la función cuando es llamada y son accesibles solo dentro de esa función.
+Los valores de estos [[parámetros]] se pasan a la función cuando es llamada y son accesibles solo dentro de esa función.
 
 ``` c#
 

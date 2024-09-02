@@ -26,7 +26,7 @@ tags:
     - Sistemas para almacenar archivos, imágenes u otros datos persistentes. Pueden ser soluciones en la nube como Amazon S3, Google Cloud Storage, o almacenamiento local en el servidor.
 8. **Gestión de la Configuración**:
     
-    - Herramientas y procesos para manejar configuraciones y parámetros del sistema, como variables de entorno y archivos de configuración. Esto permite que la aplicación se adapte a diferentes entornos (desarrollo, pruebas, producción).
+    - Herramientas y procesos para manejar configuraciones y [[parámetros]] del sistema, como variables de entorno y archivos de configuración. Esto permite que la aplicación se adapte a diferentes entornos (desarrollo, pruebas, producción).
 9. **Servicios de Mensajería**:
     
     - Permiten la comunicación asincrónica entre diferentes partes de la aplicación o con otros sistemas. Ejemplos incluyen colas de mensajes como RabbitMQ, Kafka, o Azure Service Bus.

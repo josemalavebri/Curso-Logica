@@ -3,7 +3,7 @@ modificado: 2024-08-29
 tags:
   - Comprendido
 Regreso:
-  - "[[Temario lógica funcional y cerebral]]"
+  - "[[Temario-Lógica funcional y cerebral]]"
 ---
 Los operadores lógicos se utilizan para combinar expresiones booleanas o para invertir su valor. 
 

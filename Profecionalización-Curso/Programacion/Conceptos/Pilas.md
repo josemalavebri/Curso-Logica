@@ -3,6 +3,7 @@ modificado: 2024-08-25
 tags:
   - Comprendido
 Regreso:
+  - "[[Temario-Lógica funcional y cerebral]]"
 ---
 Una pila es una estructura de datos basada en el principio **LIFO** (Last In, First Out). Esto significa que el último elemento que se agrega es el primero en ser retirado. 
 

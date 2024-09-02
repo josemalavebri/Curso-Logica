@@ -22,7 +22,7 @@ Los [[Tipos de datos]] de referencia almacenan una referencia a los datos, que s
     
 ####  **Delegados**
 
-- **`delegate`**: Un tipo que representa referencias a métodos con una lista de parámetros y un [[tipo de retorno]] específico.
+- **`delegate`**: Un tipo que representa referencias a métodos con una lista de [[parámetros]] y un [[tipo de retorno]] específico.
 
 ####  **Tipos Nulos**
 

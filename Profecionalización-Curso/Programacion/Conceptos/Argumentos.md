@@ -1,4 +1,4 @@
-Son los valores reales que se pasan a la función cuando se invoca. Los argumentos deben coincidir en número, orden y tipo con los parámetros definidos en la función.
+Son los valores reales que se pasan a la función cuando se invoca. Los argumentos deben coincidir en número, orden y tipo con los [[parámetros]] definidos en la función.
 
 ``` c#
 void Sumar(int a, int b) 

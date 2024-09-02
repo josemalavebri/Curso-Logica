@@ -1,7 +1,7 @@
 ---
 modificado: 2024-08-17
 Enlace:
-  - "[[Busquedas-main]]"
+  - "[[Obsidian-main]]"
 tags: 
 ---
 #NoProfundizado: Esta etiqueta es para cosas que hayan estudiado pero que quieran profundizar ustedes
