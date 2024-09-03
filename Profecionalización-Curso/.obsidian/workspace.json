@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion/Backend/Lenguajes/C-shart/Clases-Objetos.md",
+                "file": "Por ordenar/POO.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "83874aa21cfa0e2d",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Backend/Lenguajes/C-shart/Clases-Objetos.md",
+                "file": "Por ordenar/POO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion/Backend/Lenguajes/C-shart/Clases-Objetos.md",
+                "file": "Por ordenar/POO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programacion/Backend/Lenguajes/C-shart/Clases-Objetos.md"
+                "file": "Por ordenar/POO.md"
               }
             }
           }
@@ -164,16 +163,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad6517ba290b5208",
+  "active": "6e9554d45d871316",
   "lastOpenFiles": [
-    "Programacion/Conceptos/Temario-Lógica funcional y cerebral.md",
+    "Por ordenar/POO-Beneficios.md",
     "Por ordenar/Por que reusar código.md",
+    "Por ordenar/POO.md",
     "Programacion/Backend/Lenguajes/C-shart/Clases-Objetos.md",
+    "Programacion/Conceptos/Temario-Lógica funcional y cerebral.md",
     "Programacion/Backend/Lenguajes/C-shart/Clases-Objetos-Sintaxis-Ejemplo.md",
     "Programacion/Backend/Lenguajes/C-shart/Clase-Estructura.md",
-    "Por ordenar/POO-Beneficios.md",
     "Por ordenar/Reusabilidad de código.md",
-    "Por ordenar/POO.md",
     "Por ordenar/POO-Conceptos Principales.md",
     "Programacion/Backend/Lenguajes/C-shart/Tipos de referencia.md",
     "Programacion/Conceptos/Paradigmas de la programación.md",
