@@ -40,26 +40,38 @@ tags:
     - Concepto de Recursión
 - [[Lógica Booleana]]
     - [[Operadores Lógicos]]
-- [[Resolución de Problemas]]
+    - Tablas de Verdad
+- Resolución de Problemas
     - [[Descomposición]] de Problemas
-    - [[Prueba y Error]]
-    - [[Depuración]]
-#### **[[POO|Programación orientada a objetos]]**
-- **[[POO-Beneficios|Beneficios de la POO]]**
-    - [[Reusabilidad de código]].
-	    - [[Por que reusar código]]
+    - Prueba y Error
+    - Depuración
+- Matemáticas Discretas (Básicas)
+    - Conjuntos y Operaciones
+    - Combinatoria Básica
+- Diagramas de Flujo
+
+#### **[[Programación]] Orientada a Objetos**
+
+- **Beneficios de la POO**
+    - Reusabilidad de código.
+	    - ¿Por que reusar código?
+    - Mantenimiento y escalabilidad.
+	    - ¿Cuándo se usa correctamente la escalabilidad?
 - **Comparación con Paradigmas de [[Programación]] Alternativos**
-    - [[Pro. procedimental vs POO]].
-	    - [[Pro. procedimental vs POO - Retroalimentación|Unión de ambos conceptos]] 
-#### **Conceptos Fundamentales de la POO con C#**
-- **[[Clases-Objetos|Clases y Objetos]]**
-    - **[[Clases-Objetos|Definición de clase y objeto]]**
+    - [[Programación]] Procedimental vs. POO.
+	    - Unión de ambos conceptos 
+#### **Conceptos Fundamentales de la POO**
+
+- **Clases y Objetos**
+    - Definición de clase y objeto.
+    - Ejemplo práctico: Creación de una clase simple.
     - Getters y setters
 - **Atributos y Métodos**
     - Variables de instancia y métodos.
     - Modificadores de acceso (public, private, protected).
 - **Constructores y Destructores**
     - Propósito y uso de constructores.
+
 #### **Principios de la [[Programación]] Orientada a Objetos**
 
 - **Encapsulación**

@@ -33,7 +33,7 @@ tags:
     - Declaración y llamada de métodos.
     - [[Parámetros]], [[retorno de valores]], y sobrecarga de métodos.
 
-### **3. Programación Orientada a Objetos (POO) en C#**
+### **3. Programación Orientada a Objetos ([[POO]]) en C#**
 
 - **3.1. [[Clases-Objetos]]**
     - Definición y creación de clases.

@@ -25,7 +25,7 @@ tags:
 - Arrays y sus métodos (push, pop, shift, unshift, map, filter, reduce)
 - Iteración y manipulación de arrays
 #### 5. **P. Orientada a Objetos en JavaScript**
-- Conceptos básicos de POO (clases, objetos, herencia)
+- Conceptos básicos de [[POO]] (clases, objetos, herencia)
 - Prototipos y herencia prototípica
 - Clases y métodos (ES6)
 - *Encapsulamiento y polimorfismo

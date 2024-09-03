@@ -6,11 +6,7 @@ Regreso:
   - "[[Clases-Objetos]]"
 ---
 #### Sintaxis básica
-Un modificador de acceso opcional precede a la palabra clave `class`.
-Como en este caso se usa [[public]], cualquier usuario puede crear instancias de esta clase. El nombre de la clase sigue a la palabra clave `class`. El nombre de la clase debe seguir con ciertas 
-[[Clase-Objeto-Reglas de nomenclatura|reglas de nomenclatura]] El resto de la definición es el cuerpo de la clase, donde se definen los datos y el comportamiento. Los campos, las propiedades, los métodos y los eventos de una clase se denominan de manera colectiva _miembros de clase_.
 
-[[Nombre de la Nota|Texto Personalizado]]
 ```c#
 [ModificadorDeAcceso] class NombreClase{
 
@@ -29,6 +25,7 @@ Como en este caso se usa [[public]], cualquier usuario puede crear instancias d
 	...
 }
 ```
+
 #### Ejemplo básico
 ```c#
 public class Persona

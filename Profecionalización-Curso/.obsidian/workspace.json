@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1f00e06bd68337d4",
+        "id": "de68f434a757538f",
         "type": "tabs",
         "children": [
           {
-            "id": "ee97f5c7e598e500",
+            "id": "ad6517ba290b5208",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion/Conceptos/Temario-Lógica funcional y cerebral.md",
+                "file": "Programacion/Backend/Lenguajes/C-shart/Clases-Objetos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,12 +65,12 @@
             }
           },
           {
-            "id": "0ff77963d576c336",
+            "id": "a32703bcd68d543f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#NoProfundizado",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Conceptos/Temario-Lógica funcional y cerebral.md",
+                "file": "Programacion/Backend/Lenguajes/C-shart/Clases-Objetos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion/Conceptos/Temario-Lógica funcional y cerebral.md",
+                "file": "Programacion/Backend/Lenguajes/C-shart/Clases-Objetos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programacion/Conceptos/Temario-Lógica funcional y cerebral.md"
+                "file": "Programacion/Backend/Lenguajes/C-shart/Clases-Objetos.md"
               }
             }
           }
@@ -164,34 +164,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ee97f5c7e598e500",
+  "active": "ad6517ba290b5208",
   "lastOpenFiles": [
-    "Por ordenar/Operadores Lógicos.md",
     "Programacion/Conceptos/Temario-Lógica funcional y cerebral.md",
-    "Programacion/Conceptos/Depuración.md",
-    "Programacion/Conceptos/Prueba y Error.md",
-    "Programacion/Conceptos/descomposición.md",
-    "Resolución de Problemas.md",
-    "Por ordenar/XOR.md",
-    "Por ordenar/AND.md",
-    "Por ordenar/AND-Sintaxis-Ejemplo.md",
-    "Por ordenar/OR.md",
-    "Por ordenar/NOT.md",
-    "Por ordenar/NOT-Sintaxis-Ejemplo.md",
-    "Programacion/Conceptos/switch.md",
-    "Por ordenar/XOR-Sintaxis-Ejemplo.md",
-    "Por ordenar/OR-Sintaxis-Ejemplo.md",
+    "Por ordenar/Por que reusar código.md",
     "Programacion/Backend/Lenguajes/C-shart/Clases-Objetos.md",
+    "Programacion/Backend/Lenguajes/C-shart/Clases-Objetos-Sintaxis-Ejemplo.md",
+    "Programacion/Backend/Lenguajes/C-shart/Clase-Estructura.md",
+    "Por ordenar/POO-Beneficios.md",
+    "Por ordenar/Reusabilidad de código.md",
+    "Por ordenar/POO.md",
+    "Por ordenar/POO-Conceptos Principales.md",
+    "Programacion/Backend/Lenguajes/C-shart/Tipos de referencia.md",
+    "Programacion/Conceptos/Paradigmas de la programación.md",
     "Plantillas/Plantilla Vacía.md",
-    "Programacion/Backend/Lenguajes/C-shart/XElement-Características.md",
-    "Programacion/Backend/Lenguajes/C-shart/XElement.md",
-    "Busquedas/Temarios.md",
-    "Busquedas/Códigos.md",
-    "Anki.md",
-    "Ankis pasadas.md",
-    "Por ordenar/Anki.md",
+    "Por ordenar/Programación procedimental.md",
+    "wikilink.md",
     "Busquedas/Obsidian-main.md",
-    "Programacion/Conceptos/Array-Características.md",
+    "Plantillas/Plantilla-Sintaxis-Ejemplo.md",
+    "Programacion/Backend/Lenguajes/C-shart/Temario de C-shart.md",
+    "POO-Conceptos claves.md",
+    "Programacion/Backend/Lenguajes/C-shart/Class.md",
+    "Por ordenar/Pro. procedimental vs POO.md",
+    "Por ordenar/Pro. procedimental vs POO - Retroalimentación.md",
+    "Sin título 1.md",
+    "Por ordenar/Programación procedimental-Características.md",
+    "Programacion/Conceptos/Paradigma imperativo.md",
+    "¿Cuándo se usa correctamente la escalabilidad.md",
+    "Programacion/Conceptos/Recursión-Características.md",
+    "Sin título.canvas",
     "Por ordenar",
     "Busquedas/ANEXOS/Pasted image 20240827144854.png",
     "Busquedas/ANEXOS/Pasted image 20240827144843.png",

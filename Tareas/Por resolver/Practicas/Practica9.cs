@@ -69,15 +69,16 @@ void SumarNumeros(int numero)
 SumarNumeros(4);
 
 
- void CalcularPromedio()
+void CalcularPromedio()
 {
     double suma = 0;
-    for (int i = 0; i < 4; i++)
+    for (int i = 1; i <= 4; i++)
     {
         Console.Write("Introduce una calificación: ");
         double calificacion = double.Parse(Console.ReadLine());
         suma += calificacion;
     }
+
     double promedio = suma / 4;
     Console.WriteLine($"El promedio es: {promedio}");
     if (promedio >= 6)
@@ -96,30 +97,30 @@ CalcularPromedio();
 void EncontrarMayor()
 {
     Console.Write("Introduce el primer número: ");
-    int num1 = int.Parse(Console.ReadLine());
+    int empleo1 = int.Parse(Console.ReadLine());
 
     Console.Write("Introduce el segundo número: ");
-    int num2 = int.Parse(Console.ReadLine());
+    int empleo2 = int.Parse(Console.ReadLine());
 
     Console.Write("Introduce el tercer número: ");
-    int num3 = int.Parse(Console.ReadLine());
+    int empleo3 = int.Parse(Console.ReadLine());
 
-    int mayor = num1;
-    if (num2 > mayor)
+    int empleoActual = empleo1;
+    if (empleo2 > empleoActual)
     {
-        mayor = num2;
+        empleoActual = empleo2;
     }
-    if (num3 > mayor)
+    if (empleo3 > empleoActual)
     {
-        mayor = num3;
+        empleoActual = empleo3;
     }
-    Console.WriteLine($"El número mayor es: {mayor}");
+    Console.WriteLine($"El número mayor es: {empleoActual}");
 }
 
 EncontrarMayor();
 
 
- void TablaMultiplicar()
+void TablaMultiplicar()
 {
     Console.Write("Introduce un número para la tabla de multiplicar: ");
     int numero = int.Parse(Console.ReadLine());
@@ -128,6 +129,13 @@ EncontrarMayor();
     {
         Console.WriteLine($"{numero} x {i} = {numero * i}");
     }
+
+    /*
+                                1    x   1   =    1
+                                1    x   2   =    2
+                                ...
+                                1    x   10  =    10
+    */
 }
 
 TablaMultiplicar();
@@ -139,7 +147,7 @@ void InvertirCadena()
     string texto = Console.ReadLine();
     char[] caracteres = texto.ToCharArray();
     Array.Reverse(caracteres);
-    string textoInvertido = new string(caracteres);
+    string textoInvertido = caracteres;
     Console.WriteLine($"Cadena invertida: {textoInvertido}");
 }
 

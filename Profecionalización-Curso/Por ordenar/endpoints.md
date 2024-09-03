@@ -1,10 +1,11 @@
 ---
 modificado: 2024-09-02
 tags:
-  - Comprendido
+  - Investigar
 Regreso:
-  - "[[Obsidian-main]]"
 ---
+
+
 
 
 Concepto
