@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "line:(c-shart)",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "tag:#investigar  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:#NoProfundizado  ",
+      "color": {
+        "a": 1,
+        "rgb": 6358752
+      }
+    },
+    {
+      "query": "path:Programacion/Conceptos  ",
+      "color": {
+        "a": 1,
+        "rgb": 16672716
+      }
+    },
+    {
+      "query": "path:Programacion/Backend/Lenguajes  ",
+      "color": {
+        "a": 1,
+        "rgb": 15643409
+      }
+    },
+    {
+      "query": "path:Programacion/Backend/Lenguajes/C-shart  ",
+      "color": {
+        "a": 1,
+        "rgb": 6227593
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 0.840104166666667,
+  "lineSizeMultiplier": 2.72864583333333,
+  "collapse-forces": false,
+  "centerStrength": 1,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.23496951361075832,
+  "close": true
+}
