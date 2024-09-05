@@ -1,3 +1,0 @@
-La abstracción en el empirismo digital se refiere a simplificar y generalizar un problema o sistema al enfocarse en los aspectos más relevantes y esenciales, ignorando detalles no esenciales. 
-
-Este enfoque permite manejar la complejidad de manera más efectiva al centrarse en los elementos cruciales para la solución del problema o el desarrollo del sistema. La abstracción facilita la comprensión y la optimización de sistemas al reducir la cantidad de información a considerar.

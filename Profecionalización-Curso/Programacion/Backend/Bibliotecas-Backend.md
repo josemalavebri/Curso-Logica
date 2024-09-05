@@ -1,2 +1,0 @@
-
- [[biblioteca estándar .NET.]]

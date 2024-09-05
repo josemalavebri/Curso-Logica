@@ -1,2 +1,0 @@
-- Estos son los lenguajes que más están cerca al tipo de lenguaje de maquina estos mismos responde a la arquitectura del hardware
-- Son muy difíciles de usar pero ofrecen un control directo con la memoria
