@@ -3,6 +3,7 @@ modificado: 2024-09-02
 tags:
   - Comprendido
 Regreso:
+  - "[[Programación]]"
 ---
 Los paradigmas de [[programación]] son enfoques o estilos diferentes de pensar y estructurar la [[programación]] para resolver problemas.
 
@@ -19,9 +20,3 @@ Principales paradigmas de [[programación]]:
 	+ Funcional
 	+ [[POO|Orientado a objetos (POO)]]
 + Lógico
-
-
-
-### Más sobre: 
-
-### Temas Relacionados:

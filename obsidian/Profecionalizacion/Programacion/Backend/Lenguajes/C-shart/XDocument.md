@@ -7,7 +7,7 @@ tags:
 
 + Representa un Documento XML.
 
-+ Se utiliza para trabajar con documentos XML en un estilo de programación más moderno y basado en [[LINQ]].
++ Se utiliza para trabajar con documentos XML en un estilo de [[programación]] más moderno y basado en [[LINQ]].
 
 + `XDocument` permite crear, modificar, y consultar documentos XML de manera eficiente y fluida.
 

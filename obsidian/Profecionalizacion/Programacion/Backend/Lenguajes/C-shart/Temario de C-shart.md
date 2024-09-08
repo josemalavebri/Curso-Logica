@@ -8,7 +8,7 @@ tags:
 
 - **1.1. Historia y evolución de C#**
     - Origen y versiones clave.
-    - Comparación con otros lenguajes de programación.
+    - Comparación con otros lenguajes de [[programación]].
 - **1.2. Instalación y configuración del entorno**
     - Instalación de Visual Studio y Visual Studio Code.
     - Configuración de un proyecto C# básico.
@@ -16,7 +16,7 @@ tags:
     - Estructura básica de un archivo `.cs`.
     - Convenciones de codificación.
 
-### **2. Fundamentos de Programación en C#**
+### **2. Fundamentos de [[Programación]] en C#**
 
 - **2.1. Tipos de datos y variables**
     - Tipos de datos primitivos.
@@ -33,7 +33,7 @@ tags:
     - Declaración y llamada de métodos.
     - [[Parámetros]], [[retorno de valores]], y sobrecarga de métodos.
 
-### **3. Programación Orientada a Objetos ([[POO]]) en C#**
+### **3. [[Programación]] Orientada a Objetos ([[POO]]) en C#**
 
 - **3.1. [[Clases-Objetos]]**
     - Definición y creación de clases.
@@ -81,10 +81,10 @@ tags:
     - Uso de `throw` y `rethrow`.
     - Patrón de diseño Try-Catch-Finally.
 
-### **6. Programación Funcional en C#**
+### **6. [[Programación]] Funcional en C#**
 
-- **6.1. Introducción a la programación funcional**
-    - Principios básicos de la programación funcional.
+- **6.1. Introducción a la [[programación]] funcional**
+    - Principios básicos de la [[programación]] funcional.
 - **6.2. Expresiones lambda y funciones anónimas**
     - Sintaxis y uso de expresiones lambda.
     - Uso de funciones anónimas.
@@ -94,7 +94,7 @@ tags:
     - Operadores LINQ: `Select`, `Where`, `GroupBy`, `Join`, `Aggregate`.
 - **6.4. Funciones puras y conceptos avanzados**
     - Funciones puras en C#.
-    - Inmutabilidad y programación sin efectos secundarios.
+    - Inmutabilidad y [[programación]] sin efectos secundarios.
 
 ### **7. Manipulación de Archivos y Flujo de Datos**
 
@@ -109,15 +109,15 @@ tags:
 
 ### **8. Técnicas Avanzadas en C#**
 
-- **8.1. Programación Asíncrona y Concurrencia**
+- **8.1. [[Programación]] Asíncrona y Concurrencia**
     - Conceptos de asincronía y multihilo.
     - Uso de `async` y `await`.
     - Tareas y el espacio de nombres `System.Threading.Tasks`.
 - **8.2. Expresiones Regulares**
     - Introducción y uso de expresiones regulares en C#.
     - Aplicación en la validación de datos y búsqueda de patrones.
-- **8.3. Programación Segura y Buenas Prácticas**
-    - Principios de seguridad en la programación.
+- **8.3. [[Programación]] Segura y Buenas Prácticas**
+    - Principios de seguridad en la [[programación]].
     - Prácticas recomendadas en C#.
 - **8.4. Gestión de la memoria y el recolector de basura**
     - Conceptos de manejo de memoria en C#.

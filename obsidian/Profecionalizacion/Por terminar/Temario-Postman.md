@@ -38,9 +38,9 @@ https://youtube.com/playlist?list=PLDbrnXa6SAzUsLG1gjECgFYLSZDov09fO&si=zVDYV1dQ
     - Manejo de peticiones fallidas.
     - Flujos y Pre-request Scripts.
     
-+  **Automatización con Postman**
++  **[[Automatización]] con Postman**
     - Ejecución de Postman desde la terminal y línea de comandos.
-    - Herramientas de automatización.
+    - Herramientas de [[automatización]].
     - Newman
     
 +  **Documentación y Publicación**    

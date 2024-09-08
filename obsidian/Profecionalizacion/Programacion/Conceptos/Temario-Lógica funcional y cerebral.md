@@ -20,7 +20,7 @@ tags:
 -  Que es la [[Programación]]
     - El código como técnica
     - La [[programación]] como arte
-    - 
+    
 ### **Lógica fundamental**
 - [[Pensamiento Algorítmico]]
     - Definición de [[algoritmos]]

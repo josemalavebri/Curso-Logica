@@ -14,7 +14,7 @@ tags:
     
 4. [[API]]
     
-    - Un conjunto de reglas que permiten la comunicación entre diferentes componentes de software. Las APIs se utilizan para que el [[frontend]] interactúe con el [[Backend]], o para integrar servicios externos.
+    - Un conjunto de reglas que permiten la comunicación entre diferentes componentes de software. Las APIs se utilizan para que el [[Frontend]] interactúe con el [[Backend]], o para integrar servicios externos.
 5. **Middleware**:
     
     - Software que actúa como intermediario entre diferentes sistemas, aplicaciones o servicios, facilitando la comunicación y el intercambio de datos. Ejemplos incluyen autenticación, logging, y manejo de sesiones.

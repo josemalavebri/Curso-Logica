@@ -6,7 +6,7 @@ Regreso:
   - "[[Temario de C-shart]]"
   - "[[POO-Conceptos Principales]]"
 ---
-Es una de las estructuras más fundamentales en la programación orientada a objetos (POO) en c-shart
+Es una de las estructuras más fundamentales en la [[programación]] orientada a objetos (POO) en c-shart
 
 En [[c-shart]], una **clase** es una plantilla o modelo que se utiliza para crear objetos.
 

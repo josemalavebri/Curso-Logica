@@ -5,10 +5,9 @@ tags:
 ---
 El _backend_ se refiere a la parte de un sistema o aplicación que maneja la lógica, los datos, y las operaciones que no son visibles para el usuario final. 
 
-Es el "motor" detrás de la aplicación, donde se procesan las solicitudes del usuario, se interactúa con la [[base de datos]], se aplican reglas de negocio, y se generan las respuestas que se envían al _[[frontend]]_ (la parte visible para el usuario).
-Tenemos diferentes [[Componentes del backend]] para desarrollarlo
+Es el "motor" detrás de la aplicación, donde se procesan las solicitudes del usuario, se interactúa con la [[base de datos]], se aplican reglas de negocio, y se generan las respuestas que se envían al _[[Frontend]]_ (la parte visible para el usuario).
+
 
 
 ## [[Componentes del backend]]
-
-
+##### [[Base de datos]]

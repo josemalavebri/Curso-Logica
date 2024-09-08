@@ -6,7 +6,7 @@ Regreso:
   - "[[Clases-Objetos]]"
 ---
 
-Una **instancia** en programación es un objeto específico que ha sido creado a partir de una clase
+Una **instancia** en [[programación]] es un objeto específico que ha sido creado a partir de una clase
 
 Una clase actúa como un molde o plano que define las características (propiedades) y comportamientos (métodos) que los objetos de ese tipo deben tener. 
 

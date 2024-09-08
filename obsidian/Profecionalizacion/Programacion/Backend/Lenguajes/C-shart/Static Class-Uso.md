@@ -5,7 +5,7 @@ tags:
 Regreso:
   - "[[Static Class]]"
 ---
-Las clases `static` en programación se utilizan para agrupar métodos y propiedades que no dependen del estado de una [[Instancia]] de la clase.
+Las clases `static` en [[programación]] se utilizan para agrupar métodos y propiedades que no dependen del estado de una [[Instancia]] de la clase.
 
 Son ideales para funcionalidades globales y utilitarias que no necesitan mantener datos entre invocaciones, como funciones matemáticas o constantes. 
 

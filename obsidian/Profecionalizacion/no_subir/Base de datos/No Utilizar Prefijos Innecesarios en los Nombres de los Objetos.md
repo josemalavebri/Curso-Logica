@@ -1,0 +1,1 @@
+No es necesario anteponer siglas como `tbl` al nombrar tablas u otros objetos de la [[Base de datos]], ya que esto solo incrementa el tamaño de los nombres sin añadir valor.

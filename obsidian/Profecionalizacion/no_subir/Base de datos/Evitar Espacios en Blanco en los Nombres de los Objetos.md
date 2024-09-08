@@ -1,0 +1,1 @@
+No se deben usar espacios en blanco al nombrar objetos en la [[Base de datos]], ya que esto puede causar problemas en las transacciones y consultas. Muchos sistemas de gestión de bases de datos no permiten espacios en blanco en los nombres de las tablas u otros objetos.

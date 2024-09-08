@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "922b197fb8fa47ed",
+        "id": "ececc1ff685b3890",
         "type": "tabs",
         "children": [
           {
-            "id": "931bbfc019c14b94",
+            "id": "072a9aac75042671",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion/Backend/Lenguajes/C-shart/Clases-Objetos.md",
+                "file": "Programacion/Conceptos/Temario-Lógica funcional y cerebral.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,19 +44,6 @@
             }
           },
           {
-            "id": "1513176c202ff277",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Busquedas/Obsidian-main.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b9f8b8b76c146fef",
             "type": "leaf",
             "state": {
@@ -83,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "83874aa21cfa0e2d",
@@ -99,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Backend/Lenguajes/C-shart/Clases-Objetos.md",
+                "file": "Programacion/Conceptos/Temario-Lógica funcional y cerebral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion/Backend/Lenguajes/C-shart/Clases-Objetos.md",
+                "file": "Programacion/Conceptos/Temario-Lógica funcional y cerebral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programacion/Backend/Lenguajes/C-shart/Clases-Objetos.md"
+                "file": "Programacion/Conceptos/Temario-Lógica funcional y cerebral.md"
               }
             }
           }
@@ -153,6 +141,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -162,34 +151,34 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "931bbfc019c14b94",
+  "active": "072a9aac75042671",
   "lastOpenFiles": [
-    "Programacion/Backend/Lenguajes/C-shart/Tipos de referencia.md",
-    "Por ordenar/null.md",
-    "Por ordenar/Diferencias entre null y vacio.md",
-    "Programacion/Backend/Lenguajes/C-shart/Clases-Objetos.md",
-    "Programacion/Backend/Lenguajes/C-shart/Clases-Objetos-Sintaxis-Ejemplo.md",
-    "Programacion/Backend/Lenguajes/C-shart/Clase-Estructura.md",
-    "Por ordenar/Instancia.md",
+    "Programacion/Conceptos/Estructura Secuencial.md",
     "Programacion/Conceptos/Temario-Lógica funcional y cerebral.md",
-    "Programacion/Backend/Lenguajes/C-shart/Recolección de memoria.md",
-    "Programacion/Backend/Lenguajes/C-shart/Tipos de referencia-Ejemplo.md",
-    "Por ordenar/null-Características.md",
-    "Por ordenar/null-Ejemplos-Sintaxis.md",
-    "Por ordenar/Instancia-Origen.md",
-    "Por ordenar/Instancia-Ejemplos.md",
-    "Por ordenar/Funciones-Componentes.md",
-    "Programacion/Conceptos/Funciones.md",
-    "Clases-Objetos.md",
-    "Por ordenar/Funciones-Características.md",
-    "Programacion/Conceptos/Temario lógica funcional y cerebral.md",
-    "Programacion/Conceptos/Funciones-Sintaxis-Componentes.md",
-    "Programacion/Codigos/Para usar/Codigo para hackear la nasa.md",
-    "Programacion/Backend/Lenguajes/C-shart/Static Class-Uso.md",
-    "Programacion/Backend/Lenguajes/C-shart/public.md",
-    "Programacion/Backend/Lenguajes/C-shart/Clase-Objeto-Reglas de nomenclatura.md",
-    "Busquedas/Temarios.md",
-    "Por ordenar/POO-Conceptos Principales.md",
+    "Programacion/Conceptos/Listas.md",
+    "Programacion/Backend/Lenguajes/C-shart/estructura if.md",
+    "Programacion/Conceptos/Estructura de control condicional.md",
+    "Programacion/Conceptos/Estructuras de Control.md",
+    "Programacion/Conceptos/Estructura de control Repetitiva.md",
+    "Programacion/Conceptos/programación estructurada.md",
+    "Programacion/Conceptos/paradigma imperativo.md",
+    "Programacion/Conceptos/Paradigmas de la programación.md",
+    "Por ordenar/Programación procedimental.md",
+    "Programacion/Conceptos/Programación.md",
+    "Programacion/Conceptos/reconocimiento de Patrones.md",
+    "Programacion/Conceptos/descomposición.md",
+    "Programacion/Conceptos/Pensamiento Computacional.md",
+    "Programacion/Conceptos/Creación de programas.md",
+    "Programacion/Conceptos/Automatización.md",
+    "wikilink.md",
+    "Programacion/Conceptos/Alcance de Variables.md",
+    "Programacion/Conceptos/plataformas de desarrollo.md",
+    "Programacion/Conceptos/Resolución de Problemas Complejos.md",
+    "Por terminar/Temario-Postman.md",
+    "Programacion/Conceptos/Cultura digital.md",
+    "no_subir/Temario-Bootstrap.md",
+    "Ventajas y desventajas de usar Bootstrap en proyectos web..md",
+    "Historia y evolución de Bootstrap.md",
     "no_subir",
     "no_subir/Patrones de diseño",
     "Sin título 1.canvas",

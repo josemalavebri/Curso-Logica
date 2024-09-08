@@ -13,7 +13,7 @@ En su origen, el término hacía referencia a algo urgente o que estaba ocurrien
 
 + **[[Instancia]]** como una **situación o caso concreto**: Se refiere a un momento o circunstancia específica de algo. Ejemplo: "En esta [[Instancia]] del proyecto, debemos enfocarnos en los detalles."
     
-+ **[[Instancia]]** en programación: Representa un objeto específico creado a partir de una clase. Esto está relacionado con el significado de algo concreto o puntual, ya que la [[Instancia]] es un caso particular de una clase general.
++ **[[Instancia]]** en [[programación]]: Representa un objeto específico creado a partir de una clase. Esto está relacionado con el significado de algo concreto o puntual, ya que la [[Instancia]] es un caso particular de una clase general.
 
 
 

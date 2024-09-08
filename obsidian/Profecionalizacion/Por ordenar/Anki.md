@@ -1,5 +1,5 @@
 ### ARRAY
-¿Qué es un array en programación?
+¿Qué es un array en [[programación]]?
 Un arreglo es una estructura de datos que almacena una colección ordenada de elementos
 
 ---
