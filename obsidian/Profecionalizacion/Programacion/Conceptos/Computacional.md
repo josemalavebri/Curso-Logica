@@ -1,2 +1,2 @@
 **Lo computacional** se refiere a los procesos, conceptos y técnicas relacionadas con el uso de computadoras para resolver problemas y realizar tareas. 
-En términos generales, lo computacional abarca todo lo que implica el uso de la tecnología y la teoría de la computación para el manejo de datos, la ejecución de [[algoritmos]] , y la creación de sistemas y aplicaciones
+En términos generales, lo computacional abarca todo lo que implica el uso de la tecnología y la teoría de la computación para el manejo de datos, la ejecución de [[algoritmo]] , y la creación de sistemas y aplicaciones

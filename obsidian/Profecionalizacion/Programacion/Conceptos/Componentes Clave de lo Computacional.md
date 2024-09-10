@@ -1,6 +1,6 @@
 
 
-[[algoritmos]]
+[[algoritmo]]
 **Estructuras de Datos:**
 **[[Programación]]:**
 **Sistemas de Computación:**

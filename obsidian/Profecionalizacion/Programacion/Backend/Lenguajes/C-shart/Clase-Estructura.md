@@ -1,13 +1,16 @@
 ---
-modificado: 2024-09-01
+modificado: 2024-09-09
 tags:
   - Comprendido
 Regreso:
   - "[[Clases-Objetos]]"
 ---
-#### [[Clase-Estructura-Modificador Acceso]]
+#### [[Clase-Estructura-Modificadores de Acceso|Modificadores de acceso]]
 
 #### [[Clase-Estructura-Atributos/Campos]]
-#### [[Clase-Estructura-Constructores]]
 #### [[funciones]]
-#### [[Clase-Estructura-Getter-Setters]]
+#### [[Getter-Setters|Getter y Setters]]
+
+#### [[Clase-Estructura-Instancia|Variables de instancia]]
+
+#### [[Clase-Estructura-Constructores|Constructores]]

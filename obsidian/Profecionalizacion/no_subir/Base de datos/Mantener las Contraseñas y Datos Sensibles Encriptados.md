@@ -1,1 +1,0 @@
-Siempre se debe encriptar la información sensible en la [[Base de datos]]. No se debe almacenar esta información en texto plano ni usar [[algoritmos]] de encriptación débiles como Base64 o MD5

@@ -6,7 +6,7 @@ El estado cambia a medida que se ejecutan las instrucciones.
 
 **Mutabilidad**: 
 Las variables pueden ser modificadas a lo largo de la ejecución del programa. 
-Es decir, el valor de una variable puede cambiar varias veces.
+Es decir, el valor de una [[variable]] puede cambiar varias veces.
 
 **Control de Flujo**: 
 Utiliza estructuras de control como [[bucles]] (`for`, `while`), condiciones (`if`, `else`), y secuencias de instrucciones para controlar el flujo de ejecución.

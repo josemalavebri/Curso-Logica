@@ -15,7 +15,7 @@ tags:
     - [[descomposición]]
     - [[reconocimiento de Patrones]]
     - [[Abstracción]]
-    - [[algoritmos]] 
+    - [[algoritmo]] 
     
 -  Que es la [[Programación]]
     - El código como técnica
@@ -23,7 +23,7 @@ tags:
     
 ### **Lógica fundamental**
 - [[Pensamiento Algorítmico]]
-    - Definición de [[algoritmos]]
+    - Definición de [[algoritmo]]
     - [[Tipos de datos]]
     - Conceptos de [[Funciones]]
 	    - Definición y Uso de Funciones
@@ -46,7 +46,7 @@ tags:
     - [[Depuración]]
 #### **[[POO|Programación orientada a objetos]]**
 - **[[POO-Beneficios|Beneficios de la POO]]**
-    - [[Reusabilidad de código]].
+    - Reusabilidad de código.
 	    - [[Por que reusar código]]
 - **Comparación con Paradigmas de [[Programación]] Alternativos**
     - [[Pro. procedimental vs POO]].
@@ -72,12 +72,23 @@ tags:
     - Definición de polimorfismo.
     - Sobrecarga de métodos y métodos sobrescritos.
     - Encapsulamiento de sistemas polimórficos
+    
 - **[[Abstracción]]**
     - Concepto de clases abstractas y métodos abstractos.
     - Uso de interfaces y clases abstractas en la práctica.
 - Interfaces
 	- Asociación, agregación y composición
 	- Definición lógica de contratos
+##### **Uso de la Memoria [[Heap]] y Stack**
+- **Diferencias entre [[Heap]] y Stack**:
+    - Cómo y cuándo se utiliza cada una.
+    - Ventajas y desventajas de ambas.
+- **Gestión de Memoria en Lenguajes de [[Programación]]**:
+    - Asignación y liberación de memoria en C/C++ (malloc, free).
+    - Manejo de la memoria en lenguajes con recolección de basura (Java, C#).
+- **Optimización de Uso de Memoria**:
+    - Evitar fugas de memoria (memory leaks).
+    - Técnicas de optimización del uso de memoria en programas grandes.
 ##### **Lectura y Escritura Avanzada Determinista**
 - **Determinismo en la Escritura de Código**:
     - Consistencia en el estilo de codificación.
@@ -91,16 +102,7 @@ tags:
 - **Herramientas para la Lectura de Código**:
     - Analisis de ejecucion estatica
     - Refactorización guiada por herramientas.
-##### **Uso de la Memoria [[Heap]] y Stack**
-- **Diferencias entre [[Heap]] y Stack**:
-    - Cómo y cuándo se utiliza cada una.
-    - Ventajas y desventajas de ambas.
-- **Gestión de Memoria en Lenguajes de [[Programación]]**:
-    - Asignación y liberación de memoria en C/C++ (malloc, free).
-    - Manejo de la memoria en lenguajes con recolección de basura (Java, C#).
-- **Optimización de Uso de Memoria**:
-    - Evitar fugas de memoria (memory leaks).
-    - Técnicas de optimización del uso de memoria en programas grandes.
+
 ### **Herramientas digitales**
     - Sistemas de archivos
         - Windows básico
@@ -128,10 +130,10 @@ tags:
 
 - **Análisis de Complejidad**:
     - Complejidad temporal y espacial (Big O, Big Ω, Big Θ).
-    - Comparación de [[algoritmos]] con base en su eficiencia.
-- **Optimización de [[Algoritmos]]**:
-    - [[Algoritmos]] de ordenamiento eficientes (Quicksort, Mergesort).
-    - [[Algoritmos]] de búsqueda optimizada (Búsqueda binaria).
+    - Comparación de [[algoritmo]] con base en su eficiencia.
+- **Optimización de [[algoritmo]]**:
+    - [[algoritmo]] de ordenamiento eficientes (Quicksort, Mergesort).
+    - [[algoritmo]] de búsqueda optimizada (Búsqueda binaria).
 - **Optimización en Tiempo de Ejecución**:
     - Uso de estructuras de datos eficientes (Heaps, tablas hash).
     - Técnicas de paralelización y concurrencia.

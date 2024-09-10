@@ -1,4 +1,10 @@
-Los **tipos de datos** son definiciones en un lenguaje de [[programación]] que especifican qué tipo de valor se le puede asignar a una variable y qué operaciones se pueden realizar sobre ese valor.
+---
+modificado: 2024-09-09
+tags:
+  - Comprendido
+Regreso:
+---
+Los **tipos de datos** son definiciones en un lenguaje de [[programación]] que especifican qué tipo de valor se le puede asignar a una [[variable]] y qué operaciones se pueden realizar sobre ese valor.
 
 Un tipo de dato determina cómo se representarán los datos en la memoria y cómo se podrán manipular en el código.
 

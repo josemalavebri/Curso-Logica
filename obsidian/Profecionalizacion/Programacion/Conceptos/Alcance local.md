@@ -1,4 +1,4 @@
-Las variables declaradas dentro de una función tienen un alcance local, lo que significa que solo son accesibles dentro de esa función. No se pueden acceder desde fuera de la función.
+Las [[variable|variables]] declaradas dentro de una función tienen un alcance local, lo que significa que solo son accesibles dentro de esa función. No se pueden acceder desde fuera de la función.
 
 ```c#
 void Sumar() 

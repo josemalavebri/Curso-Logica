@@ -1,7 +1,7 @@
 - **`var`**:
     
     - Las variables declaradas con **`var`** se elevan (hoisting) al principio de su contexto de ejecución, pero se inicializan con **`undefined`**.
-    - Esto puede llevar a comportamientos inesperados si se intenta usar una variable antes de su declaración.
+    - Esto puede llevar a comportamientos inesperados si se intenta usar una [[variable]] antes de su declaración.
     
 - **`let`** y **`const`**:
     

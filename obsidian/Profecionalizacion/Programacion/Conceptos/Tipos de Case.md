@@ -7,7 +7,7 @@ tags:
   - "#Comprendido"
 ---
 #### 3 tipos de cases para ordenar nombres
-Algunas palabras están capitalizadas 
+Algunas palabras están capitalizadas con distintas formas de nombras una [[variable]]
 1. **kebab-case**:
     - `mi-archivo.js` 
     - `app-config.js`

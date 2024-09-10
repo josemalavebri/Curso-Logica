@@ -9,7 +9,7 @@ modificado: 2024-08-18
 
 - Permiten a los programadores comunicar sus ideas de manera que una computadora pueda entender y ejecutar.
 
-- Todos los lenguajes de [[programación]] tienen su propia sintaxis y reglas lo que les permite escribir [[algoritmos]] de forma específica
+- Todos los lenguajes de [[programación]] tienen su propia sintaxis y reglas lo que les permite escribir [[algoritmo]] de forma específica
 
 Existen dos [[tipos de lenguajes de programación]]
 

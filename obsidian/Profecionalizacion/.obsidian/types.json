@@ -10,7 +10,8 @@
     "Enlace": "multitext",
     "estado": "multitext",
     "Estados": "multitext",
-    "f": "checkbox",
-    "Regreso": "multitext"
+    "f": "multitext",
+    "Regreso": "multitext",
+    "Flujo-Regreso": "multitext"
   }
 }

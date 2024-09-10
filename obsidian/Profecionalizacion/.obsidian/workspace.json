@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ececc1ff685b3890",
+        "id": "7d85a6cff13f2429",
         "type": "tabs",
         "children": [
           {
-            "id": "072a9aac75042671",
+            "id": "b9ecd7bbd44e8892",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Programacion/Conceptos/Temario-Lógica funcional y cerebral.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c4bb52417d6eecf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24f27f7a35220443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programacion/Conceptos/Getter-Setters-Propiedades automáticas-Sintaxis-Ejemplo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +58,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -57,10 +76,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "camelca",
+                "query": "pascal",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -70,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 556.5
   },
   "right": {
     "id": "83874aa21cfa0e2d",
@@ -151,34 +169,35 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "072a9aac75042671",
+  "active": "b9ecd7bbd44e8892",
   "lastOpenFiles": [
-    "Programacion/Conceptos/Estructura Secuencial.md",
-    "Programacion/Conceptos/Temario-Lógica funcional y cerebral.md",
-    "Programacion/Conceptos/Listas.md",
-    "Programacion/Backend/Lenguajes/C-shart/estructura if.md",
-    "Programacion/Conceptos/Estructura de control condicional.md",
-    "Programacion/Conceptos/Estructuras de Control.md",
-    "Programacion/Conceptos/Estructura de control Repetitiva.md",
-    "Programacion/Conceptos/programación estructurada.md",
-    "Programacion/Conceptos/paradigma imperativo.md",
-    "Programacion/Conceptos/Paradigmas de la programación.md",
+    "Programacion/Conceptos/Getter-Setters-Sintaxis.md",
+    "Programacion/Conceptos/Getter-Setters.md",
+    "Programacion/Conceptos/Getter-Setters-Propiedades automáticas.md",
+    "Programacion/Conceptos/Getter-Setters-Propiedades automáticas-Características.md",
+    "Programacion/Conceptos/Getter-Setters-Propiedades automáticas-Sintaxis-Ejemplo.md",
+    "Programacion/Conceptos/Atributo-vs-propiedad.md",
+    "Programacion/Conceptos/Getter-Setters-Características.md",
+    "Programacion/Backend/Lenguajes/C-shart/Clase-Estructura.md",
+    "Programacion/Conceptos/Clase-Estructura-Modificadores de Acceso.md",
+    "Programacion/Conceptos/Clase-Estructura-Modificadores de Acceso-Ejemplo.md",
+    "Programacion/Conceptos/Clase-Estructura-Modificadores de Acceso-Características.md",
+    "Programacion/Conceptos/módulos.md",
+    "Programacion/Conceptos/modular.md",
+    "Programacion/Conceptos/encapsulamiento.md",
+    "Programacion/Conceptos/encapsulamiento-Características.md",
     "Por ordenar/Programación procedimental.md",
-    "Programacion/Conceptos/Programación.md",
-    "Programacion/Conceptos/reconocimiento de Patrones.md",
-    "Programacion/Conceptos/descomposición.md",
-    "Programacion/Conceptos/Pensamiento Computacional.md",
-    "Programacion/Conceptos/Creación de programas.md",
-    "Programacion/Conceptos/Automatización.md",
-    "wikilink.md",
-    "Programacion/Conceptos/Alcance de Variables.md",
-    "Programacion/Conceptos/plataformas de desarrollo.md",
-    "Programacion/Conceptos/Resolución de Problemas Complejos.md",
-    "Por terminar/Temario-Postman.md",
-    "Programacion/Conceptos/Cultura digital.md",
-    "no_subir/Temario-Bootstrap.md",
-    "Ventajas y desventajas de usar Bootstrap en proyectos web..md",
-    "Historia y evolución de Bootstrap.md",
+    "Programacion/Backend/Lenguajes/C-shart/Clases-Objetos.md",
+    "no_subir/Preguntas orientadas a la resolución de sistemas.md",
+    "Programacion/Conceptos/Clase-Estructura-Constructores-Estaticos.md",
+    "Programacion/Conceptos/Clase-Estructura-Constructores-Sintaxis-Ejemplo.md",
+    "Programacion/Conceptos/Funciones-vs-Métodos.md",
+    "Programacion/Conceptos/Clase-Estructura-Constructores-Características.md",
+    "no_subir/sitio web.md",
+    "no_subir/Base de datos/Ventajas y desventajas de usar Bootstrap en proyectos web..md",
+    "no_subir/Patrones de diseño/Prototype.md",
+    "Programacion/Conceptos/variable.md",
+    "Sin nombre",
     "no_subir",
     "no_subir/Patrones de diseño",
     "Sin título 1.canvas",
@@ -202,7 +221,6 @@
     "Ordenar/XML",
     "Programacion/Codigos/Ejemplos",
     "Programacion/Codigos/Para usar",
-    "Busquedas",
     "Conceptos/Sin título.canvas",
     "Programación/Sin título.canvas"
   ]

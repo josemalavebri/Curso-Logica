@@ -1,9 +1,9 @@
-La diferencia principal radica en cómo representan el estado de una variable. La cadena puede generar errores, ya que no hay un objeto sobre el cual trabajar.
+La diferencia principal radica en cómo representan el estado de una [[variable]]. La cadena puede generar errores, ya que no hay un objeto sobre el cual trabajar.
 
 
 ```c#
 string cadena = null;  
-// La variable cadena no tiene ninguna referencia o valor
+// La [[variable]] cadena no tiene ninguna referencia o valor
 
 ```
 

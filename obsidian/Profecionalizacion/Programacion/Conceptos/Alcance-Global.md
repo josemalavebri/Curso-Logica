@@ -4,7 +4,7 @@ tags:
   - Comprendido
 Regreso: []
 ---
-Una variable global es accesible desde cualquier función dentro del programa.
+Una [[variable]] global es accesible desde cualquier función dentro del programa.
 
 ``` c#
 int contadorGlobal = 0; // Variable global 
