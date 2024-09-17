@@ -3,7 +3,7 @@ modificado: 2024-09-19
 tags:
   - Comprendido
 Flujo-Regreso:
-  - "[[Clase-Estructura-Modificadores de Acceso]]"
+  - "[[Modificadores de accesos]]"
 ---
 
 **Encapsulamiento** es el principio de agrupar datos (atributos) y los métodos que operan sobre esos datos en una única **unidad lógica** (una clase o estructura). 

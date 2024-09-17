@@ -3,7 +3,7 @@ modificado: 2024-09-05
 tags:
   - Comprendido
 Regreso:
-  - "[[Clases-Objetos]]"
+  - "[[Clases y Objetos]]"
 ---
 
 Una **instancia** en [[programación]] es un objeto específico que ha sido creado a partir de una clase

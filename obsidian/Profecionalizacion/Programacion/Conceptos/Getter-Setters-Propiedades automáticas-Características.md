@@ -3,7 +3,7 @@ modificado: 2024-09-09
 tags:
   - Comprendido
 Flujo-Regreso:
-  - "[[Getter-Setters-Propiedades automáticas]]"
+  - "[[getter setter propiedades automáticas]]"
 ---
 + **Simplicidad:** Reducen la cantidad de código que debes escribir, eliminando la necesidad de declarar un campo de respaldo explícito.
 

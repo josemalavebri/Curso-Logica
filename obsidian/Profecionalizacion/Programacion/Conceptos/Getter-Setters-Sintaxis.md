@@ -3,7 +3,7 @@ modificado: 2024-09-08
 tags:
   - Comprendido
 Flujo-Regreso:
-  - "[[Getter-Setters]]"
+  - "[[getters y setters]]"
 ---
 #### Sintaxis básica
 ```c#

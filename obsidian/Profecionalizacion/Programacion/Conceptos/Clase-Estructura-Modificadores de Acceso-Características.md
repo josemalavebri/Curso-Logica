@@ -3,7 +3,7 @@ modificado: 2024-09-09
 tags:
   - Comprendido
 Flujo-Regreso:
-  - "[[Clase-Estructura-Modificadores de Acceso]]"
+  - "[[Modificadores de accesos]]"
 ---
 
 - Los modificadores de acceso permiten crear un **entorno seguro** y **modular** en la programación.

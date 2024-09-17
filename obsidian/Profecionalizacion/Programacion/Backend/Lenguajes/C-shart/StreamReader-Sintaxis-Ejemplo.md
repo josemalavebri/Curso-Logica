@@ -1,3 +1,10 @@
+---
+modificado: 2024-09-08
+tags:
+  - Comprendido
+Regreso:
+  - "[[StreamReader]]"
+---
 #### Sintaxis Básica
 ```c#
 using System.IO;
@@ -38,3 +45,4 @@ class Program
 }
 
 ```
+

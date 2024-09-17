@@ -1,7 +1,7 @@
 ### Principales Conceptos de la [[POO]]
 
 
-+ **[[Clases-Objetos]]**
++ **[[Clases y Objetos]]**
  
     
 + **Encapsulación**:

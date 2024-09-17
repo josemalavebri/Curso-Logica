@@ -3,7 +3,7 @@ modificado: 2024-09-10
 tags:
   - Comprendido
 Flujo-Regreso:
-  - "[[Getter-Setters]]"
+  - "[[getters y setters]]"
 ---
 + **Encapsulación**: Permiten ocultar la implementación interna de la clase y exponer solo lo necesario.
 

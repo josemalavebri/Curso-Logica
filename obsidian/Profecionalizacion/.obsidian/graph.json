@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 6227593
       }
+    },
+    {
+      "query": "path:\"no_subir/Patrones de diseño\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6412852
+      }
     }
   ],
   "collapse-display": true,
@@ -60,6 +67,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.11954353279825221,
+  "scale": 0.11954353279825405,
   "close": true
 }

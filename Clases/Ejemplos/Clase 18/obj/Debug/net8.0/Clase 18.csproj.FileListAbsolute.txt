@@ -1,0 +1,15 @@
+C:\Users\josem\OneDrive - Universidad de Guayaquil\Universidad\Curso-Logica\Clases\Ejemplos\Clase 18\bin\Debug\net8.0\Clase 18.exe
+C:\Users\josem\OneDrive - Universidad de Guayaquil\Universidad\Curso-Logica\Clases\Ejemplos\Clase 18\bin\Debug\net8.0\Clase 18.deps.json
+C:\Users\josem\OneDrive - Universidad de Guayaquil\Universidad\Curso-Logica\Clases\Ejemplos\Clase 18\bin\Debug\net8.0\Clase 18.runtimeconfig.json
+C:\Users\josem\OneDrive - Universidad de Guayaquil\Universidad\Curso-Logica\Clases\Ejemplos\Clase 18\bin\Debug\net8.0\Clase 18.dll
+C:\Users\josem\OneDrive - Universidad de Guayaquil\Universidad\Curso-Logica\Clases\Ejemplos\Clase 18\bin\Debug\net8.0\Clase 18.pdb
+C:\Users\josem\OneDrive - Universidad de Guayaquil\Universidad\Curso-Logica\Clases\Ejemplos\Clase 18\obj\Debug\net8.0\Clase 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josem\OneDrive - Universidad de Guayaquil\Universidad\Curso-Logica\Clases\Ejemplos\Clase 18\obj\Debug\net8.0\Clase 18.AssemblyInfoInputs.cache
+C:\Users\josem\OneDrive - Universidad de Guayaquil\Universidad\Curso-Logica\Clases\Ejemplos\Clase 18\obj\Debug\net8.0\Clase 18.AssemblyInfo.cs
+C:\Users\josem\OneDrive - Universidad de Guayaquil\Universidad\Curso-Logica\Clases\Ejemplos\Clase 18\obj\Debug\net8.0\Clase 18.csproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive - Universidad de Guayaquil\Universidad\Curso-Logica\Clases\Ejemplos\Clase 18\obj\Debug\net8.0\Clase 18.sourcelink.json
+C:\Users\josem\OneDrive - Universidad de Guayaquil\Universidad\Curso-Logica\Clases\Ejemplos\Clase 18\obj\Debug\net8.0\Clase 18.dll
+C:\Users\josem\OneDrive - Universidad de Guayaquil\Universidad\Curso-Logica\Clases\Ejemplos\Clase 18\obj\Debug\net8.0\refint\Clase 18.dll
+C:\Users\josem\OneDrive - Universidad de Guayaquil\Universidad\Curso-Logica\Clases\Ejemplos\Clase 18\obj\Debug\net8.0\Clase 18.pdb
+C:\Users\josem\OneDrive - Universidad de Guayaquil\Universidad\Curso-Logica\Clases\Ejemplos\Clase 18\obj\Debug\net8.0\Clase 18.genruntimeconfig.cache
+C:\Users\josem\OneDrive - Universidad de Guayaquil\Universidad\Curso-Logica\Clases\Ejemplos\Clase 18\obj\Debug\net8.0\ref\Clase 18.dll

@@ -9,7 +9,6 @@ Regreso:
 
 ```c#
 string nombre = null;  
-
 ```
 #### Ejemplo básico
 ```c#

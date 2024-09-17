@@ -3,6 +3,7 @@ modificado: 2024-09-02
 tags:
   - Comprendido
 Regreso:
+  - "[[Temario-C-shart]]"
 ---
 El valor **`null`** en [[programación]] representa la **ausencia de valor** o la **falta de un objeto**.
 

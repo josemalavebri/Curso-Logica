@@ -1,5 +1,5 @@
 ---
-modificado: 2024-09-09
+modificado: 2024-09-17
 tags:
   - Comprendido
 Flujo-Regreso:
@@ -11,7 +11,7 @@ Flujo-Regreso:
 
 Concepto
 ### Más sobre: Tema
-##### [[Tema-Ejemplos-Sintaxis]]
-##### [[Tema-Características]]
+##### [[-Sintaxis-Ejemplo]]
+##### [[-Características]]
 
 ### Temas Relacionados:

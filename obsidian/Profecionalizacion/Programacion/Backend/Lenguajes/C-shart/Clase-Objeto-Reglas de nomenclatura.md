@@ -4,7 +4,7 @@ tags:
   - Investigar
   - Comprendido
 Regreso:
-  - "[[Clases-Objetos]]"
+  - "[[Clases y Objetos]]"
   - "[[C-shart]]"
 ---
 [Convenciones y reglas de nomenclatura de identificadores - C# | Microsoft Learn](https://learn.microsoft.com/es-es/dotnet/csharp/fundamentals/coding-style/identifier-names)

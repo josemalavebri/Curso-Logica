@@ -1,4 +1,0 @@
-### anki hoy
-
-#### [[Ankis pasadas]]
-

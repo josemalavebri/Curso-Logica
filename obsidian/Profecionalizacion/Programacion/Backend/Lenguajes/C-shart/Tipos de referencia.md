@@ -3,7 +3,7 @@ modificado: 2024-09-01
 tags:
   - Comprendido
 Regreso:
-  - "[[Temario de C-shart]]"
+  - "[[Temario-C-shart]]"
 ---
 Un tipo que se define como una `class`, es un _tipo de referencia_.
 

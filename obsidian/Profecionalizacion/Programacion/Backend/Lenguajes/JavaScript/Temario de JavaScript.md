@@ -7,7 +7,6 @@ tags:
 
 #### 2. **Fundamentos de JavaScript**
 
-- [[Sintaxis básica]]
 - [[Variables y tipos de datos (primitivos y objetos)]]
 - Operadores (aritméticos, lógicos, de comparación)
 - Estructuras de control (if, else, switch, [[bucles]] for, while, do-while)

@@ -5,7 +5,7 @@ tags:
   - Investigar
   - NoProfundizado
 ---
-+ Significa: Language Integrated Query.
++ Siglas: Language Integrated Query.
  
 + Es una característica de C# que permite realizar consultas sobre diversas fuentes de datos de manera coherente y expresiva
 

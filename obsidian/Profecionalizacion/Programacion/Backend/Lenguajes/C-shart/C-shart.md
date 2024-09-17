@@ -12,5 +12,5 @@ Es un lenguaje versátil y potente, diseñado para ser sencillo de aprender, per
 Se usa para escribir aplicaciones que se ejecutan en la plataforma .NET. C# proporciona la sintaxis y las estructuras necesarias para utilizar las bibliotecas y funciones que proporciona [[-.NET]]
 
 
-[[Temario de C-shart]]
+[[Temario-C-shart]]
 

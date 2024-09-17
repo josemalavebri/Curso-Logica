@@ -10,6 +10,7 @@ Flujo-Regreso:
 - Un bloque de código que realiza una tarea específica. 
 
 - En la programación procedural, las funciones operan de manera independiente de cualquier clase u objeto.
+
 - Pueden devolver un valor o no. Si retornan un valor, el tipo de valor puede ser cualquier tipo de dato.
 
 - En términos de su comportamiento, son muy parecidos a las funciones independientes que puedes definir fuera de cualquier clase. 

@@ -3,7 +3,7 @@ modificado: 2024-09-09
 tags:
   - Comprendido
 Flujo-Regreso:
-  - "[[Clase-Estructura-Modificadores de Acceso]]"
+  - "[[Modificadores de accesos]]"
 ---
 ```c#
 //Modificador de acceso para un campo

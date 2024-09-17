@@ -52,27 +52,25 @@ tags:
     - [[Pro. procedimental vs POO]].
 	    - [[Pro. procedimental vs POO - Retroalimentación|Unión de ambos conceptos]] 
 #### **Conceptos Fundamentales de la POO con C#**
-- **[[Clases-Objetos|Clases y Objetos]]**
-    - **[[Clases-Objetos|Definición de clase y objeto]]**
-    - Getters y setters
+- **[[Clases y Objetos|Clases y Objetos]]**
+    - **[[Clases y Objetos|Definición de clase y objeto]]**
+    - [[getters y setters|Getters y setters]]
 - **Atributos y Métodos**
     - Variables de [[Instancia]] y métodos.
-    - Modificadores de acceso (public, private, protected).
-- **Constructores y Destructores**
-    - Propósito y uso de constructores.
+    - [[Modificadores de accesos|Modificadores de acceso (public, private, protected).]]
+- ****[[Clase-Estructura-Constructores|Constructores ]]
+- [[Clase tipos]]
 #### **Principios de la [[Programación]] Orientada a Objetos**
-
 - **Encapsulación**
     - Definición y propósito.
     - Ejemplo de encapsulación y control de acceso.
-- **Herencia**
+- **[[Herencia]]**
     - Concepto y beneficios de la herencia.
     - Creación de clases derivadas
-- **Polimorfismo**
+- **[[Polimorfismo]]**
     - Definición de polimorfismo.
     - Sobrecarga de métodos y métodos sobrescritos.
     - Encapsulamiento de sistemas polimórficos
-    
 - **[[Abstracción]]**
     - Concepto de clases abstractas y métodos abstractos.
     - Uso de interfaces y clases abstractas en la práctica.
